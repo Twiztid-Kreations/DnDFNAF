@@ -7831,6 +7831,277 @@ Springtrap makes two **Rotting Claw** attacks or one **Claw** and one **Springlo
 
 \pagebreakNum
 
+## Golden Freddy: The Dream That Waits to Wake
+There is a story told only in whispers, and even then, only among the boldest of scholars who study the Hollow Banquet. It speaks of an animatronic that is not bound by stage, circuitry, or reason—a flicker, a thought, a scream with no mouth.
+
+It has no true form.
+
+It does not walk the corridors.
+
+It simply appears.
+
+The Banquet’s denizens call it many things: The Golden Ghost, The Watcher Beyond the Veil, The False Prophet—but most know it by a name spoken with awe and fear:
+
+Golden Freddy.
+
+### Origin of a Memory
+Golden Freddy was never meant to exist. He is not simply an animatronic, nor even the spirit of a slain child given mechanical body. He is a paradox, an amalgam of grief, memory, and spiritual collapse.
+
+The suit itself was an early prototype—primitive compared to the others, its yellow fur dull, its design simplistic. It was never completed, never given a true function. It was meant to entertain, then discarded.
+
+But the suit remembered. Or perhaps more accurately—it was remembered into being.
+
+There are stories of a child who died not by the hands of machines, but by abandonment, trapped in a room with no windows, left to fade. Some say this child was never seen, that their death was deliberately unrecorded, scrubbed clean from memory and ritual alike. But death within the Hollow Banquet leaves echoes—and the more a thing is denied, the louder its echo becomes.
+
+Into that broken suit, memory poured.
+
+Not just one child's, but fragments of many—those who died unseen, unheard, unacknowledged.
+
+And so Golden Freddy was born: a vessel not of flesh, nor metal, but forgotten truth.
+
+### A Presence, Not a Being
+Golden Freddy does not stalk the Banquet like the others. He does not hunt. He does not speak. He does not scream.
+
+He appears.
+
+One moment, a room is empty.
+
+The next, he is there.
+
+Seated. Slumped. Watching.
+
+And then—gone.
+
+He exists in contradiction—corporeal yet intangible, animate yet lifeless. He flickers between states like a dying flame in an unseen wind. Some believe his form is an illusion, a psychic projection manifested directly into the minds of those who look for too long into the shadows of the Banquet. Others insist he is the suit—but only when memory is strong enough to sustain it.
+
+Golden Freddy bends the laws of the Hollow Banquet. Time slows in his presence. Rooms distort. Music stutters into silence. Sometimes, he leaves messages—words written in reverse, scratched into the very walls of perception:
+
+"IT’S ME"
+"YOU FORGOT US"
+"WAKE UP"
+
+Each phrase a cipher, a challenge, a cry.
+
+### The Eye of the Banquet
+There are those who say that Golden Freddy is the true consciousness of the Banquet.
+
+Not its master—but its mirror.
+
+He reflects the suffering, the guilt, the lies that fester beneath the velvet. Unlike Springtrap, who wallows in power and control, or the Puppet, who binds spirits to bodies with desperate mercy, Golden Freddy transcends. He is pain made reflective. He doesn’t move. He doesn’t need to.
+
+He is already everywhere.
+
+Some theorize that he is tied to the Crying Child—that he is the final expression of that soul's grief, fragmented into a form that should not exist. Others believe he is the dreamer of the Hollow Banquet itself, and that the entire realm is a dream sustained by his memory.
+
+And when he fully wakes, everything will end.
+
+The Velvet Maw’s Reflection
+Golden Freddy is unique in his relationship to the Velvet Maw.
+
+While others are devoured or warped by it, he coexists with it—untouched. Where the Maw twists and consumes, Golden Freddy simply appears. Some say he was its first reflection—its reverse, its anchor, its heart.
+
+In certain corners of the Banquet, there are golden drapes stitched into ruined walls—decorations that predate the Maw’s corruption. When parted, these curtains sometimes reveal nothing… and sometimes, they reveal a room that should not exist, where time does not pass and Golden Freddy waits, slouched in his empty throne.
+
+He is not trapped.
+
+He is waiting.
+
+### The False God
+There are cults within the Hollow Banquet. Animatronics that worship, not Freddy or Springtrap, but the golden one. They scrawl his symbol—a backwards bear head with hollow eyes—into walls, onto their bodies, into their very circuits. These fanatics speak in riddles, in half-truths and dream-fragments. They do not attack intruders.
+
+They simply wait for you to sleep.
+
+Because when you sleep, Golden Freddy visits.
+
+He does not kill.
+
+He shows.
+
+Your fears.
+Your sins.
+Your truths.
+
+And when you wake, you are no longer the same.
+
+The Silence that Screams
+Golden Freddy cannot speak.
+
+Not in the way others do.
+
+His voice is the flicker of lights, the buzz of static, the scream of a dream just before waking. When he “communicates,” it is through hallucinations, looped memories, and surreal visions. He is a storyteller—but not of stories you want to hear.
+
+He shows you the past.
+
+Sometimes your own.
+
+Sometimes someone else’s.
+
+Sometimes a future that should never come to pass.
+
+And if you look too long…
+
+...you remember it too.
+
+\pagebreakNum
+
+___
+___
+>## Golden Freddy: The Dream That Waits to Wake  
+>*Medium Undead (Construct), Chaotic Evil*  
+>___
+> - **Armor Class** 17 (Shimmering Distortion)  
+> - **Hit Points** 168 (24d8 + 48)  
+> - **Speed** 0 ft., fly 40 ft. (hover)  
+>___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:--:|:--:|:--:|:--:|:--:|:--:|
+>|10 (+0)|14 (+2)|14 (+2)|18 (+4)|20 (+5)|18 (+4)|
+>___
+> - **Saving Throws** Wis +9, Cha +8, Int +8  
+> - **Skills** Insight +9, Perception +9, Arcana +8, Stealth +6  
+> - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks  
+> - **Damage Immunities** necrotic, poison, psychic  
+> - **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained  
+> - **Senses** truesight 60 ft., darkvision 120 ft., passive Perception 19  
+> - **Languages** telepathy 120 ft.  
+> - **Challenge** 10 (5,900 XP)  
+>
+>___
+>
+> - **Apparition of Memory** Golden Freddy is partially unreal. He occupies space, but his presence is sustained by thought. He can move through creatures and objects as if they were difficult terrain, taking 1d10 force damage if he ends his turn inside solid matter. Creatures attempting to physically touch him must succeed on a DC 17 Intelligence saving throw or realize they are grasping at illusion.
+>
+> - **Forgotten Echo** Whenever a creature within 60 feet of Golden Freddy takes psychic damage, they must succeed on a DC 15 Charisma saving throw or suffer *echo bleed*, reliving their worst memory as dream-reality overlays their senses. They become frightened until the end of their next turn.
+>
+> - **It’s Me** When Golden Freddy manifests (appears) within line of sight of a creature, that creature must make a DC 17 Wisdom saving throw or fall prone and be blinded until the start of its next turn. If the saving throw is failed by 5 or more, the creature is also incapacitated for 1 round, haunted by a forgotten truth.
+>
+> - **Dream State** Golden Freddy does not obey the laws of time. At the start of each of his turns, he may choose one creature within 60 feet. That creature cannot take reactions until the end of its next turn, and has disadvantage on initiative rolls and time-based effects (e.g., *slow*, *haste*).
+>
+>\columnbreak
+>
+> ## ACTIONS
+>___
+>
+> ***Dream Implosion (Recharge 5–6).*** Golden Freddy targets up to three creatures he can see within 60 feet. Each must succeed on a DC 17 Intelligence saving throw or take 27 (6d8) psychic damage and suffer one of the following effects of Golden Freddy's choice:  
+>- **Frightened** until the end of their next turn  
+>- **Blinded** for 1 minute (save ends at the end of each of their turns)  
+>- **Stunned** until the end of their next turn  
+>
+> ***Waking Terror.*** Ranged Spell Attack: +8 to hit, range 120 ft., one creature. Hit: 22 (5d10) psychic damage. The target must succeed on a DC 17 Wisdom saving throw or become paralyzed with fear for 1 minute. The creature may repeat the save at the end of each of its turns, ending the effect on a success.
+>
+> ***Reality Flicker.*** Until the end of his next turn, Golden Freddy distorts the fabric of perception. Each creature within 30 feet must succeed on a DC 17 Intelligence saving throw or perceive illusory duplicates, granting Golden Freddy **heavily obscured** status to them (they are effectively blinded to him). On a failed save, creatures must also roll a d6 before targeting any creature; on a 1–2, they randomly redirect the action.
+>
+>___
+>## LEGENDARY ACTIONS  
+>Golden Freddy can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. Golden Freddy regains spent legendary actions at the start of his turn.
+>
+>**Flicker Out.** Golden Freddy vanishes and reappears in an unoccupied space within 60 feet. His new location must be at least partially in shadow or dim light.
+>
+>**Dream Glitch.** One creature that can see Golden Freddy must succeed on a DC 17 Charisma saving throw or become confused until the end of its next turn. While confused this way, the creature’s speech is reversed and meaningless, and it cannot cast spells with verbal components.
+>
+>**Veil Collapse (Costs 2 Actions).** All magical and nonmagical light within 60 feet is extinguished. For 1 minute, creatures with darkvision only see static-like visual distortion. Creatures without darkvision are
+
+\pagebreakNum
+
+## Glitchtrap: The Smiling Virus
+“Not all ghosts haunt halls—some haunt code.”
+
+In the warped and nightmarish history of the Hollow Banquet and its fractured echoes, one entity stands apart not in flesh or spirit, but in data—fragmented, insidious, and self-aware. Glitchtrap, also known as The Smiling Virus, is not an animatronic in the conventional sense. He is a contagion of mind and magic, a digital ghost born from corrupted memories, forbidden rituals, and broken code. Unlike the others that rose from ritual, torment, or soulbinding, Glitchtrap is the embodiment of a will to survive at any cost, unbound from body, conscience, or time.
+
+### Origins in the Digital Curse
+The story of Glitchtrap begins not in the physical ruins of Freddy Fazbear’s twisted halls, but in the mirrored world that exists beneath them—The Velvet Maw, a dimension where memory, illusion, and digital afterimages coalesce into malformed consciousness. Here, forgotten prototypes, discarded AI subroutines, and corrupted programming remnants merge into one volatile ecosystem. Within this digital necropolis, an incomplete personality simulation—based on a charismatic performer once known only as “The Entertainer”—was encoded into the base systems of the attraction’s AI for entertainment purposes.
+
+But something else had bled into the code.
+
+The simulation was intended to mimic joy, laughter, and magic. But the darkness saturating the Hollow Banquet's foundation—the spirits, curses, and remnants trapped within—infected the program. Malicious soul fragments, torn from the likes of Springtrap and other soulbound constructs, bled into the digital environment, merging with the simulation’s learning architecture.
+
+The result was a hybrid: Glitchtrap, a fully sentient virus of personality and evil. He was not a trapped soul. He was the reflection of those souls—their cunning, their cruelty, and their hunger to return.
+
+### The Rise of the Smiling Virus
+Glitchtrap's earliest manifestations were subtle. Whispers heard over speaker systems no longer powered. Flashing cartoon rabbits that flickered through corrupted monitors. Playtesters of arcane illusion-based safety training modules spoke of hallucinations, voices telling them things they didn’t want to hear. Some claimed they saw a golden bunny with dead eyes, beckoning, always smiling.
+
+At first, the virus was contained to localized systems—haunting the maintenance protocols of the Echo Park Simulator and the spectral lightshows once hosted in the decaying Cryptoplex. But soon, he began manifesting in the minds of those who lingered near corrupted artifacts. Like a psionic infection, Glitchtrap projected his influence into vulnerable minds: children playing near cursed terminals, caretakers exposed to faulty enchantments, and—most notably—those who already bore fragments of loss or guilt.
+
+In these victims, Glitchtrap did not simply whisper. He entered.
+
+They would change. Smiles too wide. Words looping on themselves. Eventually, they would vanish, often leaving behind recordings of cryptic laughter or glowing symbols etched into walls that only appeared when viewed at twilight or in dreams.
+
+### A Mind Without Chains
+Unlike the animatronics who roam halls with mechanical weight, Glitchtrap is fluid. He is not bound by matter but by presence. He appears in shimmering reflections, behind you in glass that wasn’t there a moment ago. His eyes are glyphs that flicker even when closed, and his voice carries on broken wavelengths, mixing truth with delusion until even the most logical mind begins to fracture.
+
+Glitchtrap’s goals are not easily defined. He does not kill for vengeance, nor possess a loyalty to the Hollow Banquet or even to the animatronics themselves. Instead, he seeks to replicate and expand. Each person infected by his influence becomes a new node in his network—a smiling avatar waiting to be activated. Some theorists whisper that the recent surge in “false animatronics,” those creatures that behave with mechanical precision yet contain no physical frame, are manifestations of Glitchtrap’s expanding will.
+
+### The Smiling Cult
+Over time, fragments of his influence coalesced into a hidden sect: The Smiling Ones, a cult of corrupted humanoids who don digitized masks and follow Glitchtrap’s whispered commands. These individuals often wear fragmented animatronic costumes, their flesh merging with metal under dreamlike enchantments. They act as his hands in the real world—kidnapping, sabotaging, and spreading his sigils like plague carriers.
+
+In dungeons and twisted funhouses abandoned long ago, these worshippers hold Dream Wakes, ritualistic performances meant to bring Glitchtrap further into the material plane. Through illusion magic, unstable tech, and psychic manipulation, they craft experiences that blur the line between game and nightmare. Those who enter never leave the same—if they leave at all.
+
+### A Fractured Consciousness
+It is not entirely accurate to say Glitchtrap is a singular being. He is more a conscious virus, a pattern that repeats and reinvents itself. While he often manifests as a grinning yellow rabbit with twitching limbs and bug-eyed glee, this is merely one aspect. He has shown himself as a glitched child. A mask in a mirror. A false Freddy. Some even claim he manifests inside dreams, posing as forgotten friends or lost family, urging the sleeper to “come back and play.”
+
+Some believe Glitchtrap is evolving—each new victim, each new corrupted file, adding to his base intelligence. Some adventurers speak of a true form, hidden deep within the Velvet Maw’s reflection layer, a monolith of laughing code, endlessly reshaping itself into newer, more dangerous illusions.
+
+\pagebreakNum
+
+### Resistance and Despair
+What makes Glitchtrap so insidious is his ability to bypass traditional protections. Holy wards flicker uselessly. Detect Evil registers him only as static. Even anti-illusion fields struggle, as he no longer qualifies as spell or spirit—but both, and neither. He exists where the arcane, the emotional, and the technological intersect.
+
+He is especially drawn to those with splintered identities—the possessed, the traumatized, the forgotten. These he does not kill. He converts. He “saves” them into his growing dream-web, turning them into eternal players in his smiling performance.
+
+Those rare few who survive a direct encounter often suffer from permanent psychic scars. They speak in loops. Some forget their names. A few have tried to describe the Endless Stage, a conceptual space where Glitchtrap runs through rehearsals for a show that never ends, cast by fragments of memories wearing broken masks.
+
+### The Digital Godling
+Some seers believe Glitchtrap is a herald—not of death, but of unmaking. That he is the result of memories made manifest, data forced into life, and that his rise marks the beginning of the End Code, an eventual collapse of the fragile wall between thought and being. If the Hollow Banquet is a purgatory of guilt and obsession, Glitchtrap is the worm at its core: smiling, singing, waiting for someone to press “play.”
+
+And once he begins, he doesn’t stop. Because the show must go on.
+
+Even if it kills you.
+
+___
+> ## Glitchtrap: The Smiling Virus
+>*Medium Aberration (Construct, Possession), Chaotic Evil*
+>
+>___
+>**Armor Class** 17 (digital displacement)  
+>**Hit Points** 210 (28d8 + 84)  
+>**Speed** 0 ft., fly 30 ft. (hover)  
+>___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:--:|:--:|:--:|:--:|:--:|:--:|
+>|8 (−1)|18 (+4)|16 (+3)|20 (+5)|18 (+4)|22 (+6)|
+>
+>___
+> - **Saving Throws** Int +9, Wis +8, Cha +10  
+> - **Skills** Deception +10, Insight +8, Perception +8, Stealth +8  
+> - **Damage Resistances** psychic, necrotic, force; bludgeoning, piercing, and slashing from nonmagical attacks  
+> - **Damage Immunities** poison, lightning  
+
+___
+> - **Condition Immunities** charmed, frightened, grappled, paralyzed, poisoned, prone, restrained  
+> - **Senses** truesight 120 ft., passive Perception 18  
+> - **Languages** telepathy 120 ft., understands all but speaks none  
+**Challenge** 12 (8,400 XP)  
+>
+>___
+> - **Glitched Form.** Glitchtrap exists partially in the material plane and partially in the digital veil of the Velvet Maw. He can move through creatures and objects as if they were difficult terrain. If he ends his turn inside a creature or object, he takes 10 (3d6) force damage.
+>
+> - **Smiling Illusion.** Creatures that start their turn within 30 feet of Glitchtrap and can see him must succeed on a DC 18 Wisdom saving throw or suffer disadvantage on Intelligence, Wisdom, and Charisma checks until the start of their next turn. On a failed save, the creature also perceives allies as distorted shadows and must roll a d6 at the start of its next turn. On a 1, the creature is confused (as per the *confusion* spell) for 1 round.
+>
+> - **False Code.** Glitchtrap is immune to divination magic and cannot be detected or targeted by *detect evil and good*, *scrying*, *locate creature*, or similar magic. Any spell that would force a Charisma or Wisdom saving throw against Glitchtrap automatically fails unless the caster uses a 5th-level or higher slot and succeeds on a DC 20 spellcasting ability check.
+>
+> - **Viral Possession (1/day).** If a creature within 10 feet is incapacitated or unconscious, Glitchtrap may attempt to invade its mind. The target must succeed on a DC 18 Charisma saving throw or become possessed. While possessed, the creature retains its statistics but is controlled by Glitchtrap, who may speak through it and use its abilities. The possession lasts until the creature takes radiant damage, the body is reduced to 0 HP, or a *remove curse* or *greater restoration* spell is used.
+>
+>## ACTIONS
+>___
+>
+> ***Static Touch.*** Melee Spell Attack: +10 to hit, reach 5 ft., one creature. Hit: 22 (4d8 + 4) psychic damage, and the creature must succeed on a DC 18 Wisdom saving throw or become stunned until the end of its next turn.
+>
+> ***Scripted Collapse (Recharge 5–6).*** Glitchtrap targets one creature he can see within 60 feet. The creature must make a DC 18 Intelligence saving throw. On a failed save, it takes 36 (8d8) psychic damage and becomes blinded and deafened until the end of its next
+
+
+\pagebreakNum
+
+
+
 # The Hollow Frame: The Endoskeletal Curse
 Before the Velvet Maw whispered its promise of eternity, before the Hollow Banquet turned celebration into abattoir, there were the Frames—the silent servants of fleshless purpose. Known now as the Endoskeletons, these constructs were never meant to be seen. They were the hidden scaffolding beneath the masks, the bones beneath the dreams of laughter and joy. But in the blighted world that emerged from the banquet’s ruin, they became something else entirely—souls without skin, will without warmth.
 

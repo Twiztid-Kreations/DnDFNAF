@@ -3080,6 +3080,8 @@ ___
 
 }}
 	{{Glamrock Bonnie: The Abandoned Chord
+	
+	No Stat BLock For This One
 }}
 	{{Sundrop, the Day That Never Ends
 
@@ -3797,73 +3799,105 @@ Springtrap makes two **Rotting Claw** attacks or one **Claw** and one **Springlo
 > ***Cruel Whisper.*** Springtrap targets one creature within 60 feet that can hear him. The target must succeed on a DC 16 Wisdom saving throw or be frightened until the end of its next turn. While frightened this way, the target also takes 5 (1d10) psychic damage at the start of each of its turns.
 >
 }}
-	{{Golden Freddy
-Medium Undead (Construct), Chaotic Evil
+	{{Golden Freddy: The Dream That Waits to Wake
 
-Armor Class 18 (Ethereal Body)
 
-Hit Points 150 (20d8 + 60)
+___
+>## Golden Freddy: The Dream That Waits to Wake  
+>*Medium Undead (Construct), Chaotic Evil*  
+>___
+> - **Armor Class** 17 (Shimmering Distortion)  
+> - **Hit Points** 168 (24d8 + 48)  
+> - **Speed** 0 ft., fly 40 ft. (hover)  
+>___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:--:|:--:|:--:|:--:|:--:|:--:|
+>|10 (+0)|14 (+2)|14 (+2)|18 (+4)|20 (+5)|18 (+4)|
+>___
+> - **Saving Throws** Wis +9, Cha +8, Int +8  
+> - **Skills** Insight +9, Perception +9, Arcana +8, Stealth +6  
+> - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks  
+> - **Damage Immunities** necrotic, poison, psychic  
+> - **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained  
+> - **Senses** truesight 60 ft., darkvision 120 ft., passive Perception 19  
+> - **Languages** telepathy 120 ft.  
+> - **Challenge** 10 (5,900 XP)  
+>
+>___
+>
+> - **Apparition of Memory** Golden Freddy is partially unreal. He occupies space, but his presence is sustained by thought. He can move through creatures and objects as if they were difficult terrain, taking 1d10 force damage if he ends his turn inside solid matter. Creatures attempting to physically touch him must succeed on a DC 17 Intelligence saving throw or realize they are grasping at illusion.
+>
+> - **Forgotten Echo** Whenever a creature within 60 feet of Golden Freddy takes psychic damage, they must succeed on a DC 15 Charisma saving throw or suffer *echo bleed*, reliving their worst memory as dream-reality overlays their senses. They become frightened until the end of their next turn.
+>
+> - **It’s Me** When Golden Freddy manifests (appears) within line of sight of a creature, that creature must make a DC 17 Wisdom saving throw or fall prone and be blinded until the start of its next turn. If the saving throw is failed by 5 or more, the creature is also incapacitated for 1 round, haunted by a forgotten truth.
+>
+> - **Dream State** Golden Freddy does not obey the laws of time. At the start of each of his turns, he may choose one creature within 60 feet. That creature cannot take reactions until the end of its next turn, and has disadvantage on initiative rolls and time-based effects (e.g., *slow*, *haste*).
+>
+> ## ACTIONS
+>___
+>
+> ***Dream Implosion (Recharge 5–6).*** Golden Freddy targets up to three creatures he can see within 60 feet. Each must succeed on a DC 17 Intelligence saving throw or take 27 (6d8) psychic damage and suffer one of the following effects of Golden Freddy's choice:  
+>- **Frightened** until the end of their next turn  
+>- **Blinded** for 1 minute (save ends at the end of each of their turns)  
+>- **Stunned** until the end of their next turn  
+>
+> ***Waking Terror.*** Ranged Spell Attack: +8 to hit, range 120 ft., one creature. Hit: 22 (5d10) psychic damage. The target must succeed on a DC 17 Wisdom saving throw or become paralyzed with fear for 1 minute. The creature may repeat the save at the end of each of its turns, ending the effect on a success.
+>
+> ***Reality Flicker.*** Until the end of his next turn, Golden Freddy distorts the fabric of perception. Each creature within 30 feet must succeed on a DC 17 Intelligence saving throw or perceive illusory duplicates, granting Golden Freddy **heavily obscured** status to them (they are effectively blinded to him). On a failed save, creatures must also roll a d6 before targeting any creature; on a 1–2, they randomly redirect the action.
+>
+>___
+>## LEGENDARY ACTIONS  
+>Golden Freddy can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. Golden Freddy regains spent legendary actions at the start of his turn.
+>
+>**Flicker Out.** Golden Freddy vanishes and reappears in an unoccupied space within 60 feet. His new location must be at least partially in shadow or dim light.
+>
+>**Dream Glitch.** One creature that can see Golden Freddy must succeed on a DC 17 Charisma saving throw or become confused until the end of its next turn. While confused this way, the creature’s speech is reversed and meaningless, and it cannot cast spells with verbal components.
+>
+>**Veil Collapse (Costs 2 Actions).** All magical and nonmagical light within 60 feet is extinguished. For 1 minute, creatures with darkvision only see static-like visual distortion. Creatures without darkvision are blinded.
 
-Speed 0 ft., fly 40 ft. (hover)
-
-STR	DEX	CON	INT	WIS	CHA
-10 (+0)	16 (+3)	16 (+3)	14 (+2)	18 (+4)	16 (+3)
-
-Saving Throws Wis +8, Cha +7
-
-Skills Insight +8, Perception +8, Stealth +7
-
-Damage Resistances acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-
-Damage Immunities necrotic, poison, psychic
-
-Condition Immunities charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
-
-Senses truesight 60 ft., darkvision 120 ft., passive Perception 18
-
-Languages telepathy 120 ft.
-
-Challenge 10 (5,900 XP)
-
-Proficiency Bonus +4
-
-TRAITS
-Apparition Form. Golden Freddy can move through creatures and objects as if they were difficult terrain. He takes 5 (1d10) force damage if he ends his turn inside an object.
-
-Sudden Manifestation. Golden Freddy can appear in any unoccupied space within 60 feet as a bonus action, even if a creature is looking directly at that spot. This teleportation does not provoke opportunity attacks.
-
-Time Freeze (1/Turn). When Golden Freddy appears within 10 feet of a creature, that creature must succeed on a DC 16 Wisdom saving throw or lose its reaction and have its movement speed reduced to 0 until the start of its next turn, as time briefly halts for them.
-
-False Reality. Spells that detect illusion, charm, or detect thoughts automatically fail against Golden Freddy. Creatures trying to interact with him must make an Intelligence (Arcana) or Wisdom (Insight) check DC 17 or believe he's an illusion.
-
-ACTIONS
-Haunting Glare. Ranged Spell Attack: +7 to hit, range 60 ft., one creature.
-Hit: 21 (6d6) psychic damage, and the target must succeed on a DC 16 Wisdom saving throw or be paralyzed with fear for 1 minute. The target may repeat the save at the end of each of its turns.
-
-Mind Collapse (Recharge 5–6). Golden Freddy targets up to 3 creatures he can see within 60 feet. Each must succeed on a DC 16 Intelligence saving throw or:
-
-Take 28 (8d6) psychic damage
-
-Become stunned until the end of their next turn
-If the saving throw is failed by 5 or more, the creature is also blinded for 1 minute.
-
-Static Surge. All magical light sources within 60 feet flicker and extinguish. Nonmagical light is snuffed out for 1 minute. Creatures relying on vision in this area suffer disadvantage on all Wisdom (Perception) checks.
-
-LEGENDARY ACTIONS
-Golden Freddy can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. Golden Freddy regains spent legendary actions at the start of his turn.
-
-Fade In/Out. Golden Freddy teleports to any space within 60 feet.
-
-Jumpscare. One creature that can see Golden Freddy must succeed on a DC 16 Wisdom saving throw or take 14 (4d6) psychic damage and fall prone.
-
-Blackout Reality (Costs 2 Actions). Golden Freddy becomes invisible until the end of his next turn. During this time, he can phase through solid objects as if they weren't there, and he doesn't provoke opportunity attacks.
-
-LORE
-"He doesn’t walk. He appears.
-A flicker of gold. A warped laugh. A dead-eyed stare from nowhere.
-Golden Freddy is more ghost than machine—perhaps a restless spirit, perhaps something worse. He warps perception, breaks minds, and shatters time with his presence. The less you know, the better… because the more you understand him, the closer he gets.*"
 }}
-	{{Glitchtrap
+	{{Glitchtrap: The Smiling Virus
+
+___
+> ## Glitchtrap: The Smiling Virus
+>*Medium Aberration (Construct, Possession), Chaotic Evil*
+>
+>___
+>**Armor Class** 17 (digital displacement)  
+>**Hit Points** 210 (28d8 + 84)  
+>**Speed** 0 ft., fly 30 ft. (hover)  
+>___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:--:|:--:|:--:|:--:|:--:|:--:|
+>|8 (−1)|18 (+4)|16 (+3)|20 (+5)|18 (+4)|22 (+6)|
+>
+>___
+> - **Saving Throws** Int +9, Wis +8, Cha +10  
+> - **Skills** Deception +10, Insight +8, Perception +8, Stealth +8  
+> - **Damage Resistances** psychic, necrotic, force; bludgeoning, piercing, and slashing from nonmagical attacks  
+> - **Damage Immunities** poison, lightning  
+> - **Condition Immunities** charmed, frightened, grappled, paralyzed, poisoned, prone, restrained  
+> - **Senses** truesight 120 ft., passive Perception 18  
+> - **Languages** telepathy 120 ft., understands all but speaks none  
+**Challenge** 12 (8,400 XP)  
+>
+>___
+> - **Glitched Form.** Glitchtrap exists partially in the material plane and partially in the digital veil of the Velvet Maw. He can move through creatures and objects as if they were difficult terrain. If he ends his turn inside a creature or object, he takes 10 (3d6) force damage.
+>
+> - **Smiling Illusion.** Creatures that start their turn within 30 feet of Glitchtrap and can see him must succeed on a DC 18 Wisdom saving throw or suffer disadvantage on Intelligence, Wisdom, and Charisma checks until the start of their next turn. On a failed save, the creature also perceives allies as distorted shadows and must roll a d6 at the start of its next turn. On a 1, the creature is confused (as per the *confusion* spell) for 1 round.
+>
+> - **False Code.** Glitchtrap is immune to divination magic and cannot be detected or targeted by *detect evil and good*, *scrying*, *locate creature*, or similar magic. Any spell that would force a Charisma or Wisdom saving throw against Glitchtrap automatically fails unless the caster uses a 5th-level or higher slot and succeeds on a DC 20 spellcasting ability check.
+>
+> - **Viral Possession (1/day).** If a creature within 10 feet is incapacitated or unconscious, Glitchtrap may attempt to invade its mind. The target must succeed on a DC 18 Charisma saving throw or become possessed. While possessed, the creature retains its statistics but is controlled by Glitchtrap, who may speak through it and use its abilities. The possession lasts until the creature takes radiant damage, the body is reduced to 0 HP, or a *remove curse* or *greater restoration* spell is used.
+>
+>## ACTIONS
+>___
+>
+> ***Static Touch.*** Melee Spell Attack: +10 to hit, reach 5 ft., one creature. Hit: 22 (4d8 + 4) psychic damage, and the creature must succeed on a DC 18 Wisdom saving throw or become stunned until the end of its next turn.
+>
+> ***Scripted Collapse (Recharge 5–6).*** Glitchtrap targets one creature he can see within 60 feet. The creature must make a DC 18 Intelligence saving throw. On a failed save, it takes 36 (8d8) psychic damage and becomes blinded and deafened until the end of its next
+
+
 }}
 	{{Withered Golden Freddy
 }}
