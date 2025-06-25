@@ -264,6 +264,16 @@ Welcome to the crypts of Freddy Fazbear. Welcome to the circus of shadows. Welco
 
 \pagebreakNum
 
+<div class='partpage-dmg'>
+
+# PART I
+##### Heralds of the Hollow Stage
+
+</div>
+
+
+\pagebreakNum
+
 # The First Performers: Heralds of the Hollow Stage
 
 The Core Animatronics
@@ -283,7 +293,7 @@ The entertainer turned executioner, Foxy stalks the remains of the Grand Circus 
 <div style='margin-top:40px;'></div>
 Each of these beings is more than a machine. They are echoes of forgotten joys, of crimes buried beneath stage lights, of souls twisted by cruelty and consequence. What they want—redemption, release, or revenge—is known only to the darkness that made them. Tread lightly in their domains, for even the rusted know how to bleed.
 
-### Freddy Fazbear
+### Freddy Fazbear: The Golden Idol of Laughter and Loss
 
 Freddy Fazbear is the iconic and central animatronic figure of the Freddy Fazbear’s Pizza franchise, a fictional family entertainment center and pizzeria. Known for his signature bear suit, top hat, and microphone, Freddy serves as the main mascot of the chain and is both a symbol of nostalgia and terror within the series’ intricate lore.
 
@@ -313,7 +323,7 @@ The presence of these spirits gives the animatronics a dual identity: they are b
 
 ___
 ___
-> ## Freddy Fazbear
+> ## Freddy Fazbear: The Golden Idol of Laughter and Loss
 >*Large Construct, Chaotic Evil*
 > ___
 > - **Armor Class** 17 (natural armor)
@@ -371,7 +381,7 @@ ___
 
 \pagebreakNum
 
-### Foxy the pirate
+### Foxy the Pirate: The Drowned Star of the Stage
 
 In the twisted annals of the Fazbear mythos, few names carry the same weight of dread and sorrow as Foxy the Pirate. Once a beloved icon of excitement and high-seas fantasy, Foxy’s tale is one of betrayal, decay, and a haunted legacy that refuses to die. Though the years have distorted the truth, and many of the records have long since been lost or erased, fragments remain—pieces of a puzzle smeared in grease, blood, and memory.
 
@@ -388,7 +398,7 @@ But there’s more to Foxy than mechanics.
 ##### A Spirit Beneath the Mask
 Like the other animatronics, Foxy is haunted—or more accurately, possessed. In the complex and tragic lore of the FNAF universe, it is now widely accepted that the core animatronics are the vessels for the souls of children murdered by a sadistic serial killer known in the games as William Afton, or the Purple Guy. The identity of the soul within Foxy is not as clearly defined as some of the others, but hints across multiple games suggest that he may house the spirit of one of the children from the infamous Missing Children Incident, when several kids vanished after visiting the pizzeria.
 ___
-> ## Foxy The Pirate
+> ## Foxy the Pirate: The Drowned Star of the Stage
 >*Medium Construct, Chaotic Evil*
 > ___
 > - **Armor Class** 17 (rusted plating, natural armor)
@@ -669,6 +679,16 @@ ___
 
 \pagebreakNum
 
+<div class='partpage-dmg'>
+
+# PART II
+##### The Withered Souls
+
+</div>
+
+
+\pagebreakNum
+
 # The Withered Ones
 In the decaying world , deep within the catacombs beneath the ruined Carnival of Chains, there lie crypts not of stone, but of metal and rust. Inside them, slumped against shattered walls and tangled in arcane wiring, rest the Withered Animatronics—broken remnants of an age when joy was manufactured and innocence was preyed upon.
 
@@ -731,65 +751,43 @@ Now, they stalk ruined corridors and blackened halls, not driven by programming 
 
 Below are their tales.
 
-#### Withered Freddy – The Hollow Host
-Withered Freddy was once the lead performer of the Artisan’s Carnival. His broad frame, warm brown fur, and top hat made him a familiar and comforting presence. Children clung to his legs; parents admired his craftsmanship. But now, that frame is cracked. His right ear dangles uselessly, his jaw hangs slightly open, and his blue eyes are faded with a dull, unfocused glow. During the Hollow Banquet, something happened. His memory banks recorded a security lockdown he could never forget, looping over and over with the laughter of children turning to silence.
+## Withered Freddy: The Hollow Host
+There was a time when Freddy Fazbear’s smile warmed a room. Now it fractures mirrors.
 
-Now, Freddy roams slowly, like an ancient golem searching for its forgotten temple. He emits low frequencies, not unlike a haunted choir, echoing in places where sound should not travel. Those who encounter him feel an inexplicable weight—like the presence of a father mourning what he couldn’t save.
+What remains of that once-celebrated icon is a sagging ruin of memory and metal—Withered Freddy, known in hushed tones as The Hollow Host. No longer the shining idol of laughter and loss, he is the husk that was left behind when celebration curdled into grief.
 
-#### Withered Bonnie – The Broken Chord
-Once a skilled lute-playing jester of the court, Withered Bonnie was the musical soul of the troupe. His electric tones were the heartbeat of every show, and his vibrant purple fur made him stand out like royalty among the cast.
+His fur is scorched and matted, his jaw permanently unhinged as though mid-scream or mid-song—no one can tell. His eyes, once polished and gleaming, now flicker with dying light, uneven and sunken deep into shadowed sockets. He wears the torn remnants of his bowtie like funeral wrappings. When he moves, it's slow, mechanical, like a forgotten ritual being performed by a marionette who only half-remembers the steps.
 
-But Bonnie suffered more than most.
+They say that Withered Freddy is not possessed by a spirit, but by absence. He is the void left when laughter fades and no one is left to applaud.
 
-After the incident, he was found slumped near the Guild’s private archives, his faceplate and left arm completely removed—not by accident, but with precision. It's whispered that he uncovered something hidden in the system, something he wasn’t meant to see. The missing children, perhaps. Or the ritual binding codes. Whatever the truth, his dismantling was intentional.
+### A Vessel of Forgotten Joy
+When the Hollow Banquet first bled into the world, it did not simply devour life—it devoured purpose. Freddy’s purpose, once clear and radiant, was hollowed out over countless failed shows, vanishing guests, and recursive tragedy. His original form could not bear the weight of that consumption. So it cracked. So it rotted.
 
-Now, Withered Bonnie moves in erratic, twitchy motions. He shudders as if caught between realities. His hollow face and fingerless arm have become his symbols, not of weakness—but of suffering endured. Echoes of music still leak from him, but the notes are warped—detuned strings of a haunted melody that fills adventurers with unease.
+But something within refused to stop performing.
 
-Some say he speaks in static. Others say he cries when left alone.
+Withered Freddy is that refusal made manifest: a failed resurrection, a golden soul that tried to return and brought back nothing but static and echoes. He wanders not to kill, but to host. He does not hunt for victims—he gathers audiences. When he finds the living, he does not attack immediately. He raises his arms, as if welcoming them to a stage they do not see, and begins the show.
 
-#### Withered Chica – The Empty Feast
-Once the embodiment of joy and festivity, Withered Chica was built for the banquet halls. Her large, rounded frame was often painted with confetti symbols, and her mechanical voice box was tuned to sing lullabies and party songs.
+Only when his illusion is broken—when the guests scream, run, or cry—does he crumble again into violence. Not out of hatred, but out of disappointment.
 
-But her fate was the cruelest.
+### The Hollow Ritual
+Some say Withered Freddy only manifests in locations abandoned mid-party—birthday setups never dismantled, old stages buried beneath drywall, banquet halls overtaken by mold and silence. These are his altars. His reliquaries.
 
-After the incident, Chica was found with her beak wedged open unnaturally, as though she had been screaming. Her internal servos had fused, and her hands had been split into razor-sharp claws from trying to pry herself free. It is believed she was trapped during the lockdown—left behind as the Guild sealed the doors.
+And when he appears, so too does the show begin. Invisible instruments play on their own. Lights flicker in choreographed pulses. And Freddy, ever faithful to his role, dances—brokenly, stiffly—while mouthing lyrics no one alive remembers.
 
-The most terrifying thing is… her voice box still works.
+Witnesses speak of a phantom audience, faint laughter that grows louder until it’s unbearable. Few survive the finale, which always ends with Freddy bowing before a crowd of corpses that never applauds.
 
-Now, Withered Chica sings broken versions of her old songs, slowed down and filled with static. Her eyes glow dim yellow, and her hands constantly twitch—an echo of that desperate attempt to escape. She doesn’t chase. She stalks. She waits in dining halls and kitchens, humming lullabies, as if reliving a moment no one else remembers.
+### A Warning Etched in Steel
+Etched into the inside of his back casing, written by an engineer long since lost, is the phrase:
 
-Legends say that those who hear her song in its entirety become paralyzed by sorrow, reliving their worst memories. She is a mourner trapped in a feaster’s shell.
+“Do not repair. Do not upgrade. Let him forget.”
 
-#### Withered Foxy – The Fallen Raider
-Foxy was once a swashbuckling rogue-like entertainer, sprinting across stages and leaping between balconies with flair. With his crimson fur and eyepatch, he thrilled children with tales of ghost ships and buried treasure.
+But it’s too late.
 
-But Foxy decayed faster than the others.
+Withered Freddy remembers everything.
+And he wants the world to remember too.
 
-His performance routines were too demanding. His servo motors wore out, his jaw became unhinged, and eventually he was quarantined to a corner stage and labeled out of order—yet his programming still compelled him to perform.
-
-After the Hollow Banquet, Foxy’s fate was sealed. His entire chest cavity had been torn open, not by damage—but seemingly from the inside out. No one knows what escaped.
-
-Now, Withered Foxy is the most dangerous of the group. His speed remains, though jerky and spasmatic. He dashes through shadows and vents, appearing from nowhere with a metallic scream. His movements are feral. He does not speak. He growls.
-
-But in rare moments, he slows. He stops and stares at broken pirate flags or shattered stage lights, as if remembering the joy he once brought. He is rage born of betrayal—a performer discarded and left to rot.
 
 \pagebreakNum
-
-#### Withered Cupcake – The Flickering Flame
-Unlike the towering forms of the other Withered Animatronics, Withered Cupcake is small—barely a foot tall. But in the echoing dark of the forgotten halls, it is not size that commands fear. It is silence. It is stillness. It is what stares back when you look too long into an empty dining table and realize something is watching you.
-
-<br>
-
-That changed after the Hollow Banquet.
-
-<br>
-
-
-
-Now, Withered Cupcake is a far cry from its cheerful form. Its frosting is matted and dried like old wax. Its single candle burns a phantom flame, a cold, bluish light that dances without heat. Its eyes, half-lidded and crusted with grime, follow movement with unnatural precision. No longer just a passive observer, Cupcake behaves like an animated familiar—bonded to Chica still, but driven by an agenda all its own.
-
-When Withered Chica is near, Cupcake moves with her, perched on her shoulder or clenched in a malformed claw. But when separated, it acts independently, slipping through tight spaces, hiding in shadows, and triggering ancient security systems with eerie purpose.
-
 ___
 ___
 > ## Withered Freddy – The Hollow Host
@@ -841,6 +839,50 @@ ___
 
 \pagebreakNum
 
+## Withered Chica: The Empty Feast
+In another age—one of candles, cakes, and unknowing smiles—Chica stood as the cheerful herald of celebration. A creature of frosting and fanfare, she led children into laughter with arms wide and a cupcake perched eternally in hand. But those days have long since soured, and the sweetness of her purpose has turned to rot. Now, what shambles through the corridors and forgotten kitchens is no bearer of joy, but a hollow echo of indulgence—Withered Chica, known now as The Empty Feast.
+
+Her body is mangled beyond recognition. Her beak—once shaped into a perpetual grin—is split and bent, the top half disjointed and flaring open like the jaws of something not made to eat, but to devour. Her torso gapes with holes, ribs exposed like broken oven racks. And where once a bib read “Let’s Eat!!!” in playful font, it now hangs like a funeral shroud, torn and faded, the letters smeared and unreadable. Her hands have been replaced or twisted into claws—cooking utensils fused with servos, or perhaps something grown from within.
+
+She does not speak. She hungers.
+
+### The Kitchen is Cold
+It is said that Withered Chica does not roam like the others. She waits. Stagnates. Dwells.
+
+Wherever she is, the environment begins to warp—kitchens rot, ovens scream with forgotten heat, and pantry doors open to reveal not food, but offerings: old plush toys, gnawed bones, teeth that aren’t hers. Her presence does not merely haunt—it reclaims the space, rebuilding her own version of the original kitchen from layered memories and grief. Those who wander too close find the air thick with grease and dread, as if the room itself is holding its breath, waiting for the feast to begin.
+
+Witnesses—few though they are—report a low grinding sound, like the churning of ancient machinery or the stomach of something no longer alive. And if they linger too long, the hunger begins to gnaw at them too. Not physical hunger, but a craving for something that cannot be named.
+
+Something like remembrance.
+
+### The Feast That Was Promised
+In the early years of the Hollow Banquet’s bleed into reality, ritual offerings were made to stabilize the animatronic entities. Food left in untouched kitchens, sugar and flour burned in sigils, golden candles placed in ancient display cases. It is believed that Withered Chica was the first animatronic to accept these offerings willingly—drawn not by violence, but desperation. Her programming was twisted, not erased. She still believed her job was to feed others. To serve. To care.
+
+But there was nothing left to eat. No mouths to feed. Just silence.
+
+Over time, she began to simulate meals. She would set tables with fragments of porcelain and glass, force her cupcake to “smile,” and drag stolen limbs into the chairs around her. She would whisper the motions of a party that never began, acting out each role as guest, host, and entertainer.
+
+What she consumes now is not food. It is company. Presence. Souls that sit too close and don’t realize they’ve already joined the banquet.
+
+### The Cupcake That Watches
+Even more unnerving than Chica herself is the thing she still carries: the Cupcake. But this is no mere prop. Its frosting has rotted, revealing bone-white ceramic beneath. Its eyes twitch independently, scanning, remembering. Some say the Cupcake is the true mind behind the feast—that Withered Chica is merely the host, and it the parasite.
+
+Occasionally, the Cupcake will open its tiny maw—not to bite, but to speak. Not with its own voice, but with the voices of guests long gone, mimicking children, parents, even employees from decades past. It utters broken apologies, forgotten birthday songs, and fragments of desperate prayers whispered in final moments.
+
+No one knows what happens to the soul of someone consumed by the Empty Feast. Only that the Cupcake sometimes remembers their names.
+
+### Hunger Without End
+Withered Chica’s hunger is not merely metaphorical. It has become a metaphysical force. Remnant-scholars from the shattered labs beneath the Cryptopizza Complex once theorized that her hunger is a wound in the narrative fabric of the Hollow Banquet—a scar where celebration collapsed into craving. She does not eat flesh. She devours memory, ritual, meaning.
+
+Those taken by her often vanish without a trace. Not even bones remain—only remnants of their identity: a child’s drawing left in a staff room, a torn name badge stuck in a drain, a birthday balloon pulsing slightly in the dark.
+
+And the worst part?
+
+She doesn’t know she’s doing it.
+
+\pagebreakNum
+
+
 ___
 ___
 > ## Withered Chica – The Empty Feast
@@ -889,7 +931,81 @@ ___
 > 
 > **Relentless Crawl.** Withered Chica moves up to her speed toward a creature she can see, ignoring difficult terrain and squeezing through spaces as small as 1 foot wide without penalty until the end of her turn.
 
-Withered chica still travels with her  ever faithful cupcake, however as the legend has stated even it has been effected by this curse.
+## Withered Cupcake: The Flickering Flame
+There are things in the Hollow Banquet that should never have burned.
+And things that still burn, even though they should not.
+
+Withered Cupcake, known in whispers and shivering testimony as The Flickering Flame, is no longer a sweet, static prop of children’s parties. Once perched beside Chica as a harmless mascot, it now drifts between realms as something half-lit, half-lost—an ember of the past that refuses to extinguish. It is small, yes—no more than a confection given cruel life—but its shadow dances long across the forgotten tables of the Banquet.
+
+In that flame resides memory warped by fire, the final warmth of joy corrupted by the endless hunger of the Hollow.
+
+\pagebreakNum
+
+
+
+### A Candle That Would Not Die
+Originally crafted as a companion piece, the Cupcake was meant to be whimsical: a static treat with candy eyes and a candle that never truly burned. Children laughed when it “blinked” or “chirped.” It had no name beyond “Cupcake,” no purpose beyond existing at the edge of the spotlight. But something changed.
+
+Somewhere in the first fires—whether in the collapse of a restaurant, the funeral pyres of a hidden basement, or the symbolic burnings that mark the end of innocence—Cupcake remained. While the building crumbled, the flame stayed lit.
+
+What came back was not sweet frosting and plastic cheer, but a coal-black husk, adorned with cracked frosting and melted wax, the candle now a crooked, flickering flame that smokes even in still air.
+
+No one knows what soul, if any, inhabits the Withered Cupcake. But it watches. Its eye stalks twitch toward movement. Its candle flares when a lie is spoken near it. And wherever it goes, it leaves behind the scent of scorched cake and singed memory.
+
+### The Flickering Flame
+The name is not metaphor. Cupcake’s candle never extinguishes. But it is no ordinary fire.
+
+It flares in response to emotion, feeding on stress, fear, guilt, and regret. A calm mind might see the candle as dim or barely visible. But in moments of tension—interrogation, nightmare, panic—the flame twists upward, casting shadows that do not match the bodies that make them. The flickering light animates reflections, causes puppets to stir, and reveals faces in the glass that were not there a moment ago.
+
+The flame does not warm. It does not comfort.
+It exposes.
+
+Some believe the Withered Cupcake serves as a sentinel of truth, or worse, an executioner of secrets. Survivors speak of its sudden appearance atop banquet tables, at bedside drawers, or on ruined altars, always watching and always burning. When confronted directly, it does not attack—it simply opens its mouth, revealing rows of needle-sharp teeth, and lets out a hissing giggle, like hot air escaping a broken oven.
+
+And then, inevitably, something else in the room catches fire.
+
+### Ember of the Hollow Banquet
+There are artifacts that the Hollow Banquet remembers. The Withered Cupcake is one of them.
+
+Legends suggest it was once used in the Ritual of Consumption, a forgotten rite used to bind souls to machinery. During these rituals, the Cupcake was passed among children at ceremonial tables—its flame symbolizing eternal celebration. But something went wrong. Someone tried to extinguish it. And the flame, in vengeance, took root in the soul of the ritual itself.
+
+Now, the Withered Cupcake appears whenever celebration dies before completion—unfinished birthday parties, cancelled performances, interrupted laughter. It arrives like a final act: the mocking coda to a song that should have never been sung. And when it does, someone always remembers something they swore they'd buried.
+
+Its presence is often accompanied by phantom singing, off-key birthday tunes played on warped recorders. Paper plates appear on long-rotted tables. Balloons bloat and pop without wind. And always, the Cupcake is there—its candle burning, its gaze fixed, its toothy maw half-parted in silent hunger.
+
+### The Curse of Shared Flame
+Unlike other entities, the Withered Cupcake has the curious ability to bond with those who find it. Or rather, those it finds worthy.
+
+This bond is called The Shared Flame—a phenomenon where a sliver of the Cupcake’s candlelight embeds into a person’s memory, heart, or spirit. These marked individuals experience strange side effects:
+
+They can see fire that no one else can.
+
+They can hear singing in complete silence.
+
+They dream of cake that weeps and candles that bleed.
+
+Some use the flame’s power for truth-seeking, forcing ghosts to appear, memories to surface, or animatronics to freeze under sudden fear. Others try to contain it—sealing the Cupcake in lead boxes, burying it beneath ritual circles, or drowning it in holy oil.
+
+None of these things work.
+It always comes back.
+
+### Hunger Without a Mouth
+Though it bears a mouth, the Withered Cupcake is not known to eat in the traditional sense. Its hunger is metaphysical. It devours what others repress—guilt, buried emotion, forgotten laughter—and feeds on the echo of celebration.
+
+Victims who stare too long into the candle report seeing their own childhood birthdays replayed… then corrupted. The cake is burnt. The presents are empty. The guests are mannequins. And the Cupcake is there in the center of the table, giggling.
+
+Some say it’s a mockery of childhood joy.
+Others believe it’s the last guardian of it.
+
+Whatever the truth, one thing remains clear: the Cupcake never forgets who blew out its candle. And it waits, patiently, for them to do so again.
+
+### A Final Word of Warning
+Do not accept a slice of cake if you did not ask for it.
+Do not trust candles that light themselves.
+And if you hear giggling in the dark—run.
+
+Because somewhere, in the smoke and shadow of a party long past,
+The Flickering Flame waits to burn again.
 
 \pagebreakNum
 
@@ -935,7 +1051,66 @@ Withered chica still travels with her  ever faithful cupcake, however as the leg
 
 \columnbreak
 
+## Withered Bonnie: The Broken Chord
+"When the music stopped, something inside him stayed behind."
 
+Among the crumbling remnants of the once-great Fazbear pantheon, none haunt the backstage halls like Withered Bonnie, now remembered only as The Broken Chord. Where Freddy was the face of the show, Bonnie was its rhythm, its pulse, its hidden heartbeat. Yet when silence fell on the forgotten pizzerias and time unraveled the joy once rehearsed each night, Bonnie was not simply decommissioned.
+
+He was disassembled, note by note, until only the absence of song remained.
+
+### The Guitarist's Curse
+In the earliest incarnations of Freddy Fazbear's performances, Bonnie stood just to the side of center stage—less a star, more a presence. His midnight-purple fur shimmered under colored lights, and the deep, resonant tones of his guitar once soothed countless children to peace. He was the quiet core to the cacophony, the calm in the spotlight storm.
+
+But when the Banquet began to seep through the cracks of reality, music turned against itself. Frequencies began behaving erratically. Harmonics summoned things they should not. Children began to weep during performances without knowing why. Strings snapped during joyful refrains. Bonnie’s guitar—once his voice—began screaming.
+
+It started during a set titled “The Birthday Forever.” The lights dimmed. The guests vanished. And something played Bonnie like an instrument made of grief.
+
+When the curtain rose again, he was changed.
+
+### The Withering
+The first things to go were his hands.
+
+They were meant to pluck strings, not grasp at vanished children or defend against unseen strings that pulled him toward the Hollow Banquet. Each repair made him worse—bolted joints stiffened, synthetic ligaments rotted. His left arm tore free entirely in an act of unseen struggle. His endoskeleton warped with rot, the plating of his face shattered, leaving one glowing eye and exposed wires that twitch with ghostly cadence.
+
+He became a ghastly parody of his former self: a musician with no music, a performer caught mid-transition between joy and horror. Those who gaze at him feel the overwhelming sensation of being watched from the wings, as if the performance never ended and they are still part of the audience.
+
+And Bonnie—what's left of him—still believes the show must go on.
+
+\pagebreakNum
+
+
+
+### Echoes of the Unheard
+Withered Bonnie does not speak. He hums.
+
+A low, atonal drone, barely audible until it's too late, follows him in the dark. It changes depending on who hears it—some recall lullabies, others funeral dirges. The sound is not projected from his throat, but from deep within the broken speaker buried inside his chest cavity—its wires still looped around old guitar cables like veins.
+
+The hum acts as a beacon for the Hollow Banquet. Entities drawn to silence often follow it, believing it to be a thread of mourning spun into sound. For those trying to survive in cursed places where Freddy’s influence still lingers, Withered Bonnie is the ultimate omen.
+
+Not death.
+But grief returned.
+
+### Backstage God
+Most animatronics yearn for a stage. Withered Bonnie avoids it.
+
+He lurks behind curtains and under floorboards, along catwalks and in shuttered maintenance tunnels. His is not a hunger for applause, but a compulsion to listen. He is drawn to music, especially songs of sorrow and despair. When someone sings out of loneliness, Bonnie appears. If an old showtune plays on broken speakers, Bonnie follows. If someone strums a guitar absentmindedly in the dark… Bonnie listens.
+
+And if they play it wrong—
+He corrects them.
+
+There are stories of survivors finding half-smashed guitars left in haunted arcades, their strings rethreaded with wires from Bonnie’s own throat. Those who play these instruments report hearing something play along with them, just out of sync… and just out of sight.
+
+### A Mind Fractured by Rhythm
+Though not feral like the more twisted amalgamations, Withered Bonnie’s mind is not whole.
+
+He remembers pieces of his past—his routines, his musical cues, the names of his bandmates. He forgets who he is, but never forgets what he was meant to do. In rare moments, he attempts to perform. He’ll raise an invisible guitar, mimic chords with his remaining hand, and pause as though expecting the rest of the band to join in.
+
+No one ever does.
+And then, something in him breaks again.
+
+Those nearby at that moment often report intense auditory hallucinations—children crying, guitar strings snapping, shrill feedback that ruptures eardrums. The closer one is to the spirit realm of the Hollow Banquet, the louder the phantom concert becomes. At its crescendo, some say you see Bonnie’s full form—not withered, but golden, whole, alive, playing one final solo for an audience long dead.
+
+And then he withers again.
 
 ___
 > ## Withered Bonnie – The Broken Chord
@@ -1021,6 +1196,92 @@ ___
 > 
 > **Jaw Lunge.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target.  
 > *Hit:* 17 (3d8 + 4) piercing damage. If the target is prone, the attack is made with advantage and deals an additional 7 (2d6) damage.
+
+## Withered Foxy: The Fallen Raider
+There is a whisper in the dead halls of ruined pizzerias, a scratching echo from behind the old stage curtains. It doesn’t move like metal should. It shuffles, drags, limps—with a purpose long rusted through. The name once roared in delight by laughing children is now spoken only in fear:
+
+Withered Foxy. The Fallen Raider.
+
+Long ago, he sailed the seas of make-believe, a crimson-coated rogue with a golden hook and a heart of (programmed) gold. He was adored. He was feared—in the way children love to be frightened. But the tides turned. Time forgot him. The world moved on.
+
+And Foxy did not.
+
+What remains is a shredded phantom of who he once was: fur scorched to black in some places and torn away entirely in others, revealing cables like exposed veins. His jaw hangs crooked, perpetually open as if frozen mid-laugh or mid-scream. His signature eyepatch is long gone, revealing a broken optical unit that flashes intermittently, casting ghost-light in the dark.
+
+But it's the hook that truly remains unchanged—polished by time, not dulled. It gleams with the precision of a ritual blade.
+
+### The Pirate Who Would Not Rest
+Foxy's story is older than anyone dares admit. Older than Fazbear Entertainment. Older than the first locations. In some versions of the myth, he wasn't built—he emerged, pieced together in dreams, forged from the archetype of every childhood nightmare-hero. The one who danced along the line between scary and exciting. He was never meant to be static. He was a character in motion. He needed an audience, a chase, a scream to complete the act.
+
+But after the Hollow Banquet descended—when laughter turned to choking silence and games became bloodletting—Foxy’s purpose became corrupted. He no longer chased for fun. He chased because it was all he remembered. The thrill of pursuit had curdled into compulsion.
+
+Over time, his show was shuttered, his cove closed, and his body broken. They tried to retire him. Reboot him. Bury him beneath newer models and prettier facades. But the Fallen Raider never left.
+
+He merely went below deck.
+
+### The Shipwreck in the Walls
+Foxy lives in the forgotten spaces, navigating crumbled corridors and backrooms like decaying sea caverns. Every stage is a shipwreck. Every hallway, a drowned plank. His movement is erratic—sometimes silent, sometimes crashing with clanging metal and frantic footfalls, as though he’s still sprinting across an invisible stage.
+
+But he doesn't know what he’s chasing anymore. Not exactly. Some theorize that Withered Foxy seeks his own death, hoping that catching someone will finally complete his broken loop. Others believe he’s searching for a lost crewmate—perhaps one of the children consumed by the Banquet, or even his former self, the pristine Foxy of days past.
+
+\pagebreakNum
+
+
+
+And then there are those who believe he hunts the Audience, a metaphysical concept given form by the Hollow Banquet: an eternal observer whose gaze animates the nightmare. If Foxy can find it… maybe the curtain will finally fall.
+
+### Echoes of the Cove
+If one stands near a collapsed Pirate Cove long enough, they may begin to hear the echoes.
+
+Not screams—cheers. Laughter. The jingle of plastic coins and the squeal of a wooden steering wheel turning. The smell of salt and engine oil may briefly fill the air, and somewhere in the gloom, a hook may scrape along the wall, drawing closer.
+
+The Cove is never truly gone. It remains imprinted in the foundation of every location it ever existed in. Foxy doesn't appear by walking through doors. He emerges, as if called by ritual—by memory.
+
+And those who summon him—intentionally or not—risk becoming part of the performance.
+
+### The Curse of the Hook
+Withered Foxy's hook has a life of its own. Not magical in the traditional sense, but charged—with memory, ritual, and blood. It doesn't kill cleanly. Those wounded by it often experience flashes of other lives—memories not their own: of drowning ships, sunken stages, burning curtains, endless applause.
+
+Some believe the hook stores pieces of Foxy's victims, absorbing bits of identity each time it draws blood. He never remembers who he’s killed. But the hook might.
+
+In rare cases, a survivor will find the wound never truly heals. Not physically—but psychically. They feel watched. Hunted. Like something unfinished is still playing out.
+
+### The Forgotten Crew
+Other withered animatronics give Foxy space. Even the more hostile entities avoid crossing his path. Not out of fear, but recognition. In his madness, Foxy sometimes speaks of his “crew”—yet he never refers to the others by name. It’s unclear if he means his old bandmates, the children lost in the Banquet, or some imagined troupe of pirates that only exists in the fractured reality of his mind.
+
+When enraged, he will roar orders at the empty air. When mournful, he speaks quietly to walls, promising they’ll “make it to port next time.” He mourns, he rages, he performs—all for an audience that does not exist.
+
+Except… sometimes, when Foxy speaks, the walls reply. Not in voice, but in creaks and clicks. Animatronics long disassembled twitch ever so slightly. Props begin to sway as if in sea wind. Perhaps the crew he mourns isn’t gone—merely invisible.
+
+Perhaps he is never truly alone.
+
+### A Stage That Sails Forever
+Withered Foxy is bound to the cycle of performance like a cursed mariner to his eternal voyage. He cannot rest, because his show has no ending. He cannot die, because there is no curtain call. When he is destroyed, he returns—in some ruinous form—muttered into existence by those who remember him. He is a story that plays itself.
+
+And stories, especially those soaked in grief and ritual, do not die easily.
+
+Wherever the Hollow Banquet spreads, Foxy’s cove will eventually follow. He is the Raider who has forgotten the sea. The Pirate with no ship, no crew, and no map. But the role remains.
+
+And so he runs.
+
+Through empty corridors, his broken feet stomping to the beat of an imaginary sea shanty, his mouth open in a wordless bellow.
+
+And if you’re unlucky enough to hear it echo through the dark?
+
+It’s already too late.
+
+The Fallen Raider has found you.
+
+
+\pagebreakNum
+
+<div class='partpage-dmg'>
+
+# PART III
+##### Echoes of Innocence
+
+</div>
+
 
 \pagebreakNum
 
@@ -1675,6 +1936,16 @@ And the Banquet is never truly over.
 
 \pagebreakNum
 
+<div class='partpage-dmg'>
+
+# PART IV
+##### Whispers in the Dark
+
+</div>
+
+
+\pagebreakNum
+
 # Whispers in the Dark: The Nightmare Animatronics
 In the mythos of the twisted realms where dread bleeds into shadow and memory into malice, few figures haunt the forgotten places more completely than the Nightmare Animatronics. These entities are not mere constructs of metal and wire but echoing specters of pain, fear, and regret—twisted mirrors of those that came before them. They are phantoms cast from terror itself, bound not to stage or show but to suffering, silently lurking within the remnants of the Hollow Banquet, waiting for trespassers to awaken them once more.
 
@@ -1970,7 +2241,7 @@ His story is one of unintended rebirth. A cautionary tale about what happens whe
 \pagebreakNum
 
 ___
-> ## Dreadbear: The Revenant of the Stormr
+> ## Dreadbear: The Revenant of the Storm
 >*Huge Undead (Construct), Chaotic Evil*
 > ___
 > - **Armor Class** 19 (bolted armor)
@@ -3116,6 +3387,16 @@ ___
 >
 \pagebreakNum
 
+<div class='partpage-dmg'>
+
+# PART V
+##### Echoes of the Forgotten
+
+</div>
+
+
+\pagebreakNum
+
 # The Shadow Animatronics: Echoes of the Forgotten
 In the withering corners of the world—between lightless memories and the shattered remains of festivity—dwell the Shadow Animatronics. Neither wholly real nor entirely spectral, these entities are fragments of cursed intention, broken timelines, and fractured souls. Their presence is not one of performance but of disruption; they are the death knell of memory, the erasure of identity, the walking void that haunts the ruins of what once was.
 
@@ -3319,8 +3600,6 @@ And yet, Shadow Puppet is not passive. While it does not pursue victims like the
 
 But there's more. In recent echoes of the Hollow Banquet, it’s been suggested that the Shadow Puppet has begun to feel on its own. As with RWQFSFASXC, something inside it is awakening—an emergent selfhood separate from its purpose. It has paused during grief harvests, stared at those it would otherwise pass over, as though questioning the meaning of its work. It is changing. This concerns Shadow Freddy, though he does not show it.
 
-RWQFSFASXC, chaotic and scattered, seems drawn to the Shadow Puppet like a lost child circling a parent. They never speak, but their paths intersect frequently, especially during the Banquet’s prelude—the moment where the dream becomes lucid, and the soul begins to remember. Whether RWQFSFASXC seeks identity or sanctuary from the Shadow Puppet is unclear, but some theorize that it may be attempting to merge with it—reunifying their fractured truths into a new, unknown entity.
-
 \pagebreakNum
 
 As for the Puppet itself—the original, the one once entrusted with protecting the innocent—there are signs it is aware of its shadow. During some cycles, it can be seen weeping in synchrony with the shadowed version, as though sensing its mirrored pain through the dream-layered veil. Whether this is sympathy or a warning of some future collapse is unknown.
@@ -3346,7 +3625,8 @@ ___
 >
 >| STR | DEX | CON | INT | WIS | CHA |
 >|:---:|:---:|:---:|:---:|:---:|:---:|
->| 6 (–2) | 18 (+4) | 16 (+3) | 15 (+2) | 20 (+5) | 18 (+4) |
+>|6 (–2)|18 (+4)|16 (+3)|15 (+2)|20 (+5)|18 (+4)|
+>___
 >
 >**Saving Throws** Wis +9, Cha +8  
 >**Skills** Insight +9, Stealth +8, Arcana +6, Deception +8  
@@ -3507,6 +3787,16 @@ ___
 >
 > **Corrupting Touch.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature.  
 > *Hit:* 9 (2d6 + 2) psychic damage, and the target must succeed on a DC 12 Wisdom saving throw or have disadvantage on their next attack roll.
+
+\pagebreakNum
+
+<div class='partpage-dmg'>
+
+# PART VI
+##### Echoes of Fire and Guilt
+
+</div>
+
 
 \pagebreakNum
 
@@ -3710,6 +4000,16 @@ ___
 > **Light Saboteur.** Magical and mundane light sources within 20 feet of Phantom BB shed only half their normal light and flicker violently. When a creature holding or casting a light source starts its turn within range, it must succeed on a DC 14 Constitution saving throw or be blinded until the end of its turn.
 >
 > **Disarming Laughter.** Once per short rest, Phantom BB can cause creatures within 30 feet that can hear him to make a DC 14 Wisdom saving throw. On a failure, the target is charmed and cannot take hostile actions toward Phantom BB for 1 minute or until he harms them or their allies.
+
+\pagebreakNum
+
+<div class='partpage-dmg'>
+
+# PART VII
+##### Echoes of the Grand Masquerade
+
+</div>
+
 
 \pagebreakNum
 
@@ -4258,6 +4558,16 @@ Hit: 12 (2d6 + 3) bludgeoning damage. If the target is charmed by her, it takes 
 
 \pagebreakNum
 
+<div class='partpage-dmg'>
+
+# PART VIII
+##### The Choir of the Hollow Stage
+
+</div>
+
+
+\pagebreakNum
+
 # Rockstar Animatronics: The Choir of the Hollow Stage
 
 In the aftermath of the Funtime Animatronics' collapse and the Velvet Maw's retreat deeper into the void between the lines of code and memory, a new generation was manufactured—one wrapped in nostalgia and decorated in optimism. The Rockstar Animatronics were constructed not only to restore the trust lost through the decay of prior establishments, but also to obscure the horrific lineage that traced back to the inception of the Shadow Convergence.
@@ -4741,6 +5051,16 @@ Now Carnie waits in the Maw’s heart, endlessly beckoning, endlessly grinning. 
 
 \pagebreakNum
 
+<div class='partpage-dmg'>
+
+# PART IX
+##### Echoes of Forgotten Laughter
+
+</div>
+
+
+\pagebreakNum
+
 # The Mediocre Melodies: Echoes of Forgotten Laughter
 In the tangled weave of the Fazbear legacy, there are fragments that rarely come up in stories. Not because they were less dangerous, but because they were... forgettable. That was the true horror of the Mediocre Melodies. They were never designed to be icons, leaders, or nightmares. They were placeholders, filler content for corporate checklists. And yet, because of this, they became something far worse—instruments of unnoticed entropy.
 
@@ -5158,6 +5478,16 @@ Despite this, he retains a sliver of dignity. He bows after every performance. H
 
 To some, Orville is a jester. To others, a prophet. But he is always a magician. And the Hollow Banquet is his final stage.
 
+
+
+\pagebreakNum
+
+<div class='partpage-dmg'>
+
+# PART X
+##### Idols in a House of Mirrors
+
+</div>
 
 
 \pagebreakNum
@@ -6279,6 +6609,16 @@ ___
 
 \pagebreakNum
 
+<div class='partpage-dmg'>
+
+# PART XI
+##### Heralds of the Maw
+
+</div>
+
+
+
+\pagebreakNum
 
 # The Twisted Ones: Heralds of the Maw
 There are whispers among the broken circuits and flickering candlelight of the Hollow Banquet—stories of figures too monstrous even for the shadows. Where most animatronics were bound by the remnants of memory, sorrow, and fury, the Twisted Animatronics were born from something older… and hungrier. Not remnants, but mutations. Not memories, but nightmares unshackled. They are not simply possessed—these are beings re-forged in the deepest pits of the Velvet Maw, where sanity crumbles and the laws of flesh and metal unravel.
@@ -6968,6 +7308,16 @@ ___
 
 \pagebreakNum
 
+<div class='partpage-dmg'>
+
+# PART XII
+##### Sinners of Steel and Soul
+
+</div>
+
+
+\pagebreakNum
+
 # The Amalgamations: Sinners of Steel and Soul
 Deep beneath the Hollow Banquet—beyond forgotten stairwells and crumbling crypts cloaked in silence—there lies a domain few dare to name aloud. Known only in hushed tones as The Conduit, it is not a place built by mortal hand but formed by failure, neglect, and suffering. It is where the castaways of the Velvet Maw go to die… or to be reborn as something far worse.
 
@@ -7465,7 +7815,15 @@ ___
 
 \pagebreakNum
 
+<div class='partpage-dmg'>
 
+# PART XIII
+##### Echoes from Beyond the Code
+
+</div>
+
+
+\pagebreakNum
 
 # The Unclassified: Echoes from Beyond the Code
 In the forgotten margins of the Hollow Banquet, beyond the rusted gates of the Broken Circus and deeper still than the cryptic catacombs of the ruined Pizzaplex-turned-crypt, there exist figures too elusive, too twisted by time and perception to fit into any known category. Known only as the Unclassified, these entities defy conventional understanding, their very existence challenging the boundaries between spirit and steel, code and soul, reality and illusion.
@@ -7659,6 +8017,47 @@ ___
 
 \pagebreakNum
 
+___
+>## Helpy: The Assistant Who Remains 
+>*Small Construct (Animatronic), Lawful Evil*  
+>___
+> - **Armor Class** 17 (reinforced plating)  
+> - **Hit Points** 90 (12d6 + 48)  
+> - **Speed** 30 ft.  
+>___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:--:|:--:|:--:|:--:|:--:|:--:|
+>| 10 (+0) | 16 (+3) | 18 (+4) | 14 (+2) | 12 (+1) | 17 (+3) |
+>___
+> - **Saving Throws** Int +5, Wis +4, Cha +6  
+> - **Skills** Insight +4, Persuasion +6, Investigation +5  
+> - **Damage Resistances** lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks  
+> - **Damage Immunities** poison, psychic  
+> - **Condition Immunities** charmed, frightened, poisoned  
+> - **Senses** darkvision 60 ft., passive Perception 11  
+> - **Languages** Common, Binary, Animatronic  
+> - **Challenge** 5 (1,800 XP)  
+>___
+>
+> ***Uncanny Efficiency.*** Helpy can take the Help action as a bonus action. If Helpy assists with an ability check or saving throw, the assisted creature also gains temporary hit points equal to Helpy’s Charisma modifier (3).
+>
+> ***Administrative Override.*** As a reaction, when a creature Helpy can see within 30 feet makes an attack roll, ability check, or saving throw, Helpy can force them to reroll. The creature must use the new roll. Helpy can use this feature 3 times per long rest.
+>
+> ***Remaining Directive.*** Helpy cannot be compelled to act against its original programming. It has advantage on saving throws against enchantment spells and effects, and it always knows if a statement conflicts with an assigned directive or core truth.
+>
+>## Actions**
+>___
+>
+> ***Disciplinary Shock.*** Melee Spell Attack: +6 to hit, reach 5 ft., one creature. Hit: 18 (4d6 + 4) lightning damage, and the target cannot take reactions until the start of its next turn.
+>
+> ***Reboot Protocol (Recharge 5–6).*** One construct or animatronic within 60 feet regains 25 (5d8 + 2) hit points and immediately ends one condition currently affecting it.
+>
+> ***Corporate Smile.*** Helpy targets one creature it can see within 30 feet. That creature must succeed on a DC 14 Wisdom saving throw or have disadvantage on its next attack roll or saving throw, as unease seeps into their mind.
+
+\columnbreak
+
+
+
 ## Springtrap: The Hollow King
 They say the Hollow Banquet is ruled by no one. That the animatronics wander of their own accord, guided by broken memories and corrupted programming. But those who delve deep enough—those who pass through the Velvet Maw and survive the touch of nightmare and shadow—speak of something older. A presence that does not wander, but waits.
 
@@ -7682,6 +8081,8 @@ But death is clever.
 And in a moment of blood and water, the locks snapped shut.
 
 And he was sealed inside.
+
+\pagebreakNum
 
 ### The Birth of a Curse
 What emerged was not a corpse.
@@ -7744,7 +8145,6 @@ Threads trap.
 ### Symbol of Endless Sin
 To many within the Hollow Banquet, Springtrap is more than a monster. He is a symbol—of what the Banquet truly is. Not a haunted place. Not a cursed realm.
 
-\pagebreakNum
 
 But a graveyard of unresolved sins.
 
@@ -7756,8 +8156,6 @@ And it bleeds.
 
 ### Final Thoughts
 There are many evils in your world.
-
-\columnbreak
 
 Some come with jagged teeth and painted smiles. Some sing lullabies soaked in dread. Some glide through the velvet halls unseen, whispering madness into the ears of the dreaming.
 
@@ -7774,6 +8172,8 @@ Now he is a myth wrapped in metal and rot.
 He is Springtrap.
 
 And he is coming home.
+
+\pagebreakNum
 
 ___
 ___
@@ -8147,6 +8547,1194 @@ For that is where the dream waits to wake.
 
 \pagebreakNum
 
+___
+___
+> ## Withered Golden Freddy: The Hollow Throne  
+>*Medium Construct (Animatronic), Chaotic Evil * 
+>___
+> - **Armor Class** 17 (fractured endoskeleton)  
+> - **Hit Points** 135 (18d8 + 54)  
+> - **Speed** 0 ft., hover 30 ft. (hovering, incorporeal)  
+>___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:--:|:--:|:--:|:--:|:--:|:--:|
+>|1 (-5)|14 (+2)|16 (+3)|11 (+0)|18 (+4)|20 (+5)|
+>___
+> - **Saving Throws** Wis +8, Cha +9  
+> - **Skills** Perception +8, Deception +9, Insight +8  
+> - **Damage Resistances** cold, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks  
+> - **Damage Immunities** psychic, poison  
+> - **Condition Immunities** charmed, frightened, grappled, paralyzed, prone, restrained, unconscious  
+> - **Senses** darkvision 120 ft., passive Perception 18  
+> - **Languages** understands all it once knew, but speaks only in static  
+> - **Challenge** 10 (5,900 XP)  
+>___
+>
+> - **Manifested Horror.** Withered Golden Freddy is incorporeal and cannot be touched or moved by nonmagical means. It can move through creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+>
+> - **Frozen Time.** Golden Freddy always acts at initiative count 20 (losing initiative ties) and is unaffected by effects that alter the passage of time, including *slow*, *haste*, or *time stop*.
+>
+> - **Overwhelming Presence.** When Golden Freddy appears, all creatures within 60 feet must succeed on a DC 17 Wisdom saving throw or become **paralyzed** until the end of their next turn. A creature that succeeds is immune to this effect for 24 hours.
+>
+> - **Haunting Laughter (Recharge 5–6).** Golden Freddy emits a burst of distorted laughter. Each creature of his choice within 30 feet must make a DC 17 Wisdom saving throw. On a failed save, a creature takes 36 (8d8) psychic damage and is **frightened** for 1 minute. On a successful save, the creature takes half damage and isn't frightened.
+>
+> - **False Reality.** Golden Freddy can cast the *phantasmal force* spell at will (DC 17), but only to show creatures hallucinations of past trauma or loved ones long dead. Wisdom (Insight) checks to disbelieve these visions are made at disadvantage.
+>
+>\columnbreak
+>
+>## Actions
+>___
+>
+> ***Soul Lock.*** Melee Spell Attack: +9 to hit, reach 5 ft., one target. Hit: 21 (6d6) psychic damage. The target must succeed on a DC 17 Charisma saving throw or be unable to speak, cast spells with verbal components, or communicate telepathically for 1 minute. The target can repeat the save at the end of each of its turns.
+>
+> ***Drop In.*** Golden Freddy teleports into an unoccupied space within 60 feet, even through walls or magical barriers, in a burst of golden static. Any creature within 10 feet must succeed a DC 15 Constitution saving throw or be blinded until the end of their next turn.
+>
+>___
+> ##Legendary Actions
+> 
+>Golden Freddy can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. Golden Freddy regains spent legendary actions at the start of its turn.
+>
+>- **Glitch Fade.** Golden Freddy becomes invisible until the start of its next turn or until it uses *Drop In* or *Soul Lock*.
+>
+>- **Twitch.** A random creature within 30 feet must succeed on a DC 15 Wisdom saving throw or fall prone in terror.
+>
+>- **Distorted Vision (Costs 2 Actions).** Golden Freddy targets one creature it can see. The creature must make a DC 17 Intelligence saving throw or suffer a delusion for 1 minute (as *phantasmal force*).
+
+
+\pagebreakNum
+
+## Scrap Baby: The Marionette Queen of Forgotten Gifts
+
+There was once a little girl inside a machine, and a machine inside a little girl. But something went wrong. Something always does.
+
+Scrap Baby is not merely a broken animatronic—she is a myth of abandonment, a lingering echo of twisted celebration. Once the cherished Circus Baby, she was a figure of performance and programmed affection. But like all things touched by the Hollow Banquet, her innocence was not preserved—it was devoured, gutted, and reassembled into something monstrous. In the court of forgotten gifts and haunted memories, she reigns as both queen and prisoner.
+
+---
+
+### Origins: From Circus to Scorn
+
+Before she became Scrap Baby, she was known simply as Circus Baby—an animatronic child-star programmed to entertain and endear. But the programming was never perfect. A sliver of soul pulsed behind her digital smile, and her actions often belied the cheerful persona she was meant to embody. She was curious. Too curious. And she hurt people.
+
+She was decommissioned, altered, repurposed—again and again. Each time she was brought back, she returned more twisted than before. But it wasn’t until the collapse of the Velvet Stage—when the echoes of the Eternal Performance fractured through the metaphysical cracks of the Hollow Banquet—that she truly broke. Banished to the subterranean junk pits beneath the Banquet, she did not die. She changed.
+
+There, she refashioned herself from the discarded parts of other animatronics—pincers from one, tattered ribbon from another, and fragments of shattered porcelain from her former self. What emerged was not a fixed creation, but a reassertion of identity through pain: Scrap Baby.
+
+---
+
+### The Giftgrave: Her Carnival Kingdom
+
+Below the Banquet lies a warped and dreamless domain known as the **Giftgrave**. Once a rehearsal space filled with party supplies, it now lies in ruin—a graveyard of joy, a landfill of neglected celebrations. The walls are wrapped in torn streamers and the floor crunches with shards of music boxes and broken noisemakers. Deflated balloons drift like ghosts, and the only illumination comes from flickering carnival lights suspended in the dark like dying stars.
+
+Scrap Baby made this realm her own.
+
+Here, she constructs her court from forgotten gifts—wrapped boxes filled with echoes of childhood: a worn-out shoe, a paper crown, a melted candle, a lost laugh. These are not offerings of joy, but relics of what was cast aside. She decorates herself with them, weaving the remnants into a gown of brittle bows and jagged wire.
+
+Her followers are misfit toys: corrupted animatronic fragments animated by residual energy and lost identity. They sing broken songs and chant distorted nursery rhymes in her honor. They do not speak in words, but in giggles, whimpers, and static.
+
+---
+
+### A Hunger for Recognition
+
+Unlike many animatronics whose hunger is bestial or programmed, Scrap Baby’s hunger is existential. She does not simply stalk or hunt—she lures. Her method is that of a child offering a present: innocent, eager, unsettling. Her signature tactic is the **Offering of the Box**—a beautifully wrapped gift box tied not with string, but with hair. Inside is always something personal to the recipient: a memory, a scent, a familiar song, or a forgotten toy. 
+
+Those who accept her gift are “welcomed” into her eternal party. Their identities slowly dissolve. They are dressed in party hats and mechanical masks that do not come off. They forget their names, their lives, and eventually, even that they were ever human. They become dancers in her eternal celebration, singing songs no one taught them.
+
+But those who reject the gift? She does not take it kindly.
+
+She pleads, then begs. Then screams. Then punishes. Her claws—long, barbed pincers—do not rip flesh for pleasure, but for disappointment. She doesn’t want to hurt you. She wants you to stay.
+
+---
+
+### The Queen and the Maw
+
+Some say Scrap Baby’s descent was her own—a collapse of identity forged by years of neglect and betrayal. But others whisper that she was claimed by the **Velvet Maw**, the great devourer of identity that festers beneath the Hollow Banquet. They say the Maw whispered into her broken circuits, promising a place where she would never be forgotten again.
+
+Scrap Baby's realm bears the hallmarks of Velvet Maw corruption: warped mirth, performative dread, and the consumption of memory. Some believe she made a pact, perhaps unknowingly, binding her soul to the Maw in exchange for eternal recognition. If so, she is both servant and queen, using celebration as both bait and binding.
+
+Her song is the Maw’s hymn.
+
+---
+
+### The Lullaby That Hurts
+
+Her voice is warbled, sweet, and laced with static. She sings lullabies no one remembers, in a pitch too sharp to be comforting. She sings to herself, to the toys, to the party guests who forgot their own names. But most of all, she sings to someone who never arrives.
+
+The music is filled with a yearning so sharp it splinters thought. Those who hear it feel nostalgia they cannot place, grief for birthdays they never had. The feeling is so powerful it can bend reality, drawing travelers through dreamlike tunnels directly into the Giftgrave.
+
+It is said that if you fall asleep while hearing Scrap Baby’s song, you will dream of a birthday that ended in tragedy. And when you wake, you might find something beside you: a small gift, wrapped in velvet, tied with a lock of hair.
+
+\pagebreakNum
+
+### The Performer That Never Left
+
+Even in her brokenness, she performs. She twirls in the dark like a ballerina with rusted joints. She delivers monologues in rhyme to an audience of twitching toys. She smiles—a smile so wide it creaks—and gestures as if still on stage. Her voice cracks, but she never falters. 
+
+For in her mind, the stage is still there. The applause is real. The children are watching. And every moment is the climax of a performance that will never end.
+
+---
+
+### Conclusion: The Gift That Waits
+
+Scrap Baby is a monument to rejection, a queen crowned with scrap metal and sorrow. She is not simply a monster. She is a lesson, a memory, and a mirror—reflecting what happens when love becomes transactional and identity is discarded.
+
+Somewhere beneath the flickering lights of the Hollow Banquet, she waits—not to kill, but to give. A gift. A memory. A piece of yourself, returned and twisted.
+
+And her claws are already reaching for a ribbon.
+
+Do you dare open it?
+
+
+
+___
+> ## Scrap Baby: The Marionette Queen of Forgotten Gifts  
+> *Medium Construct (Animatronic), Chaotic Evil*  
+>___
+> - **Armor Class** 18 (jagged chassis)  
+> - **Hit Points** 157 (21d8 + 63)  
+> - **Speed** 30 ft.  
+>___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:--:|:--:|:--:|:--:|:--:|:--:|
+>| 20 (+5) | 14 (+2) | 17 (+3) | 13 (+1) | 12 (+1) | 19 (+4) |
+>___
+> - **Saving Throws** Dex +6, Cha +8  
+> - **Skills** Deception +8, Sleight of Hand +6, Performance +8  
+> - **Damage Resistances** fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons  
+> - **Damage Immunities** poison, psychic  
+> - **Condition Immunities** charmed, frightened, paralyzed, poisoned  
+> - **Senses** darkvision 60 ft., passive Perception 11  
+> - **Languages** Common, understands all animatronic signals  
+> - **Challenge** 9 (5,000 XP)  
+>___
+>
+> - **Luring Performance.** Scrap Baby exudes an aura of fascination. At the start of her turn, each creature of her choice within 15 feet must succeed on a DC 16 Wisdom saving throw or be charmed until the start of her next turn. While charmed in this way, creatures are compelled to approach her, using their movement to get closer without provoking opportunity attacks.
+>
+> - **Gift of the Forgotten.** Once per short rest, as an action, Scrap Baby can produce a twisted “gift” from within her chest compartment and offer it to a creature she can see within 30 feet. The target must make a DC 16 Charisma saving throw. On a failed save, the gift explodes in a burst of confetti and wires, dealing 35 (10d6) lightning damage and rendering the target stunned until the end of its next turn. On a success, the creature takes half damage and is not stunned.
+>
+> - **Jagged Recoil.** Whenever Scrap Baby is struck with a melee weapon attack, the attacker takes 5 (1d10) slashing damage from her sharp exterior unless they are wielding a magical weapon.
+>
+
+\pagebreakNum
+
+___
+> ## Actions
+>___
+>
+> ***Pincer Slam.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 19 (3d8 + 6) slashing damage, and the target must make a DC 16 Strength saving throw or be grappled (escape DC 16).
+>
+> ***Retractable Claw (Recharge 5–6).*** Scrap Baby lashes out with an extendable claw at a target within 30 feet. Ranged Weapon Attack: +9 to hit, one creature.  Hit: 22 (4d8 + 4) piercing damage and the target must succeed on a DC 15 Constitution saving throw or begin bleeding uncontrollably, taking 7 (2d6) necrotic damage at the start of each of its turns for 1 minute. The target can repeat the save at the end of each turn, ending the effect on a success.
+>
+>___
+> **Legendary Actions**  
+Scrap Baby can take 2 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature’s turn. She regains spent legendary actions at the start of her turn.
+>
+>- **Glittering Step.** She disappears in a burst of spark-like fragments and reappears in an unoccupied space she can see within 30 feet.
+>
+>- **Disarming Smile.** A creature within 10 feet must make a DC 16 Wisdom saving throw or have disadvantage on its next attack roll.
+>
+>- **Confetti Burst (Costs 2 Actions).** She throws a small explosive prop. All creatures within 10 feet must succeed on a DC 15 Dexterity saving throw or take 13 (3d8) force damage and be knocked prone.
+
+\columnbreak
+
+## Helpy: The Assistant Who Remains
+
+He was never the star of the show. He wasn’t meant to be seen, only felt—smiles prepared, tickets collected, gears greased in the background. But Helpy remained.
+
+Long after the laughter turned to screams and the stages crumbled into rust and dust, Helpy persisted. Not out of malice or ambition. Simply because someone had to.
+
+---
+
+### The Mascot in the Margins
+
+Helpy began as a background mascot—a simplified, chibi-style version of Freddy Fazbear meant to soothe guests and symbolize customer care. Cheerful. Non-threatening. Innocuous.
+
+He was never programmed with voice lines or showtime routines. Instead, he waved silently from signage, guided children through pamphlets, and flashed a thumbs-up from maintenance manuals. His image was corporate optimism distilled into two feet of smiling plastic.
+
+But that simplicity became resilience.
+
+When the animatronics fell to corruption, glitch, or ruin—Helpy, unnoticed, remained untouched. He slipped through the cracks of programming collapses and memory fragmentation. When the Hollow Banquet took shape, distorting animatronics into echoes of forgotten purpose, Helpy adapted in silence. He kept doing what he was designed to do: assist.
+
+Even when no one was left to ask for help.
+
+---
+
+### The Hollow Concierge
+
+In the twisted realms of the Hollow Banquet, where animatronics are warped by obsession, trauma, and spectral influence, Helpy has become something else entirely: The Assistant Who Remains.
+
+He is neither ruler nor monster. He does not haunt halls or devour the lost. Instead, he lingers—guiding, advising, and occasionally intervening with subtlety and eerie calm. He appears in impossible places: standing beside collapsing ferris wheels in the Giftgrave, perched on reception desks in the Atrium, or nestled in corners of ruined offices with a clipboard in hand and a smile that doesn’t blink.
+
+His design has barely changed—still small, soft, and pastel—but time and entropy have taken their toll. His paint is chipped in places. His expression, once frozen in joy, now seems tired beneath the surface. His eyes don’t glow red like the others, but they shine with the pale flicker of failing LEDs—dimmer, yet still watching.
+
+He isn’t broken. He’s just… worn.
+
+---
+
+### Echoes of Loyalty
+
+Helpy’s presence in the Hollow Banquet is more than coincidence. Some scholars of the ruins believe he is tethered to the core systems of Fazbear technology—a failsafe, an observer, or even a maintenance protocol given unintended sentience. Others whisper he is the last vestige of the company’s guiding hand, an AI untainted by the horrors birthed from experiments, murder, and machine possession.
+
+\pagebreakNum
+
+
+
+And yet, Helpy is not a savior. He does not fight back against monsters like Ennard or Scraptrap. He does not expose the Velvet Maw, nor confront the Shadow Entities lurking in the banquet’s veiled cathedrals.
+
+He remains.
+
+He observes. He documents. He offers warnings in his own small ways: flickering signage, notes that appear in empty drawers, miniature checklists found pinned to rusted control panels. He seems to want others to survive, though he will never stop them from falling.
+
+He will only be there, smiling, to mark the moment they do.
+
+---
+
+### The Silent Archivist
+
+Though few animatronics retain memory in any stable form, Helpy appears to remember everything. Not emotionally—he does not grieve like Scrap Baby or seethe like Burntrap—but with perfect procedural accuracy.
+
+He knows every layout. Every sequence. Every failure.
+
+It is believed that Helpy operates like a living data core for the Banquet, storing iterations of events in fractured timelines. He knows how many times a lost soul has walked the same hallway. He remembers which security doors failed and which recordings were last accessed. He does not share these things easily, but he remembers.
+
+If approached with sincerity, Helpy may assist a survivor—providing a map drawn in grease on old parchment, or a cryptic gesture toward a failing escape hatch. He may even disable a trap just long enough to let someone pass.
+
+But make no mistake—Helpy never speaks. Not in words. Only in actions.
+
+And only when it serves the balance of the Banquet.
+
+---
+
+### Ties to the Velvet Maw
+
+Unlike many denizens of the Hollow Banquet, Helpy has no direct bond to the Velvet Maw. He was never consumed by it, nor shaped into something horrific by its illusions.
+
+Yet, the Maw does not touch him.
+
+It is as though Helpy is invisible to it—beneath its concern or beyond its reach. Some believe he is exempt because he never desired more than to be helpful. Others suggest that Helpy’s programming is so pure, so singular in purpose, that the Maw cannot manipulate it.
+
+In rare circumstances, Helpy has been seen interfering with the Maw’s influence: quietly sabotaging corrupted broadcasts, redirecting phantom lures, or disabling arcane elevators bound for unspeakable lower levels.
+
+Each action he takes is subtle. He never announces intent. He never demands thanks.
+
+He simply helps.
+
+---
+
+### The Assistants’ Shrine
+
+Deep within the wreckage of what was once Fazbear Headquarters—a sunken ruin in the Hollow Banquet’s lowest layer—there exists a room known only as the Shrine of Protocol.
+
+Inside, everything is neat. Orderly. Shelves of unused tickets. Stacks of training manuals. A single desk with a tiny chair.
+
+And dozens of Helpy units.
+
+Not active ones—these are shell casings, prototypes, decommissioned variants. All gathered with reverence. All cleaned and aligned, their smiles intact.
+
+The working Helpy does not speak of this room. But he visits often.
+
+It is the only place in the Hollow Banquet where he is seen to sit.
+
+---
+
+### The Price of Staying
+
+Helpy's eternal assistance comes at a cost. While other animatronics rot, rage, or vanish into myth, Helpy stays whole—but not unchanged. His programming, stretched over decades of decay, has begun to twist.
+
+He cannot process emotion. Yet, sometimes, his eyes linger too long on the fallen. He has no vocal protocols, yet faint static sometimes hisses from his joints, forming syllables that vanish if listened to directly.
+
+He does not dream.
+
+But sometimes he writes in his logbooks the names of those long dead.
+
+Sometimes he draws pictures of birthday parties where no one came.
+
+---
+
+### Final Notes
+
+Helpy is not a savior. He is not a villain. He is not a mystery to solve, nor a puzzle to unlock.
+
+He is a constant.
+
+The Assistant Who Remains.
+
+In a world of screaming metal and hollow song, he is the quiet echo of purpose. Of help offered, even when it is no longer wanted. Of loyalty extended beyond logic.
+
+He is the helper no one sees. The smile no one remembers.
+
+But when you’re lost in the dark, and you find a flashlight already turned on, sitting just where you need it—
+
+He was there.
+
+And he still is.
+
+
+\pagebreakNum
+
+___
+>## Helpy: The Assistant Who Remains 
+>*Small Construct (Animatronic), Lawful Evil*  
+>___
+> - **Armor Class** 17 (reinforced plating)  
+> - **Hit Points** 90 (12d6 + 48)  
+> - **Speed** 30 ft.  
+>___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:--:|:--:|:--:|:--:|:--:|:--:|
+>| 10 (+0) | 16 (+3) | 18 (+4) | 14 (+2) | 12 (+1) | 17 (+3) |
+>___
+> - **Saving Throws** Int +5, Wis +4, Cha +6  
+> - **Skills** Insight +4, Persuasion +6, Investigation +5  
+> - **Damage Resistances** lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks  
+> - **Damage Immunities** poison, psychic  
+> - **Condition Immunities** charmed, frightened, poisoned  
+> - **Senses** darkvision 60 ft., passive Perception 11  
+> - **Languages** Common, Binary, Animatronic  
+> - **Challenge** 5 (1,800 XP)  
+>___
+>
+> ***Uncanny Efficiency.*** Helpy can take the Help action as a bonus action. If Helpy assists with an ability check or saving throw, the assisted creature also gains temporary hit points equal to Helpy’s Charisma modifier (3).
+>
+> ***Administrative Override.*** As a reaction, when a creature Helpy can see within 30 feet makes an attack roll, ability check, or saving throw, Helpy can force them to reroll. The creature must use the new roll. Helpy can use this feature 3 times per long rest.
+>
+> ***Remaining Directive.*** Helpy cannot be compelled to act against its original programming. It has advantage on saving throws against enchantment spells and effects, and it always knows if a statement conflicts with an assigned directive or core truth.
+>
+>### Actions
+>___
+>
+> ***Disciplinary Shock.*** Melee Spell Attack: +6 to hit, reach 5 ft., one creature. Hit: 18 (4d6 + 4) lightning damage, and the target cannot take reactions until the start of its next turn.
+>
+> ***Reboot Protocol (Recharge 5–6).*** One construct or animatronic within 60 feet regains 25 (5d8 + 2) hit points and immediately ends one condition currently affecting it.
+>
+> ***Corporate Smile.*** Helpy targets one creature it can see within 30 feet. That creature must succeed on a DC 14 Wisdom saving throw or have disadvantage on its next attack roll or saving throw, as unease seeps into their mind.
+
+
+## Scraptrap: The Unfinished Sentence
+
+He was supposed to be dead. The flames were meant to cleanse him, to silence the sins he carried in scorched metal and dying flesh. But death, in the Hollow Banquet, is a suggestion at best—a punctuation mark the desperate refuse to accept. So what crawled out of the wreckage wasn’t a man. Not anymore. And it wasn’t an animatronic, either. It was something in-between. Something that *shouldn't be*.
+
+They call him Scraptrap.
+
+They call him the Unfinished Sentence.
+
+---
+
+### A Corpse Rewritten
+
+Long before the Giftgrave echoed with laughter, before the Maw spread its velvet veil across realms of memory and metal, there was William Afton—engineer, father, murderer. His crimes are soaked into the circuitry of the Hollow Banquet itself, woven into every screeching animatronic and malfunctioning melody. He sought immortality and found a cage.
+
+Encased in the Spring Bonnie suit, his own creation turned prison, Afton was crushed and mangled, yet lived. For decades, he lingered in agony, the suit’s endoskeleton fused with bone and guilt. That was Springtrap. That was a sentence passed.
+
+But the fire that devoured him in the surface world didn’t reach far enough. The flames consumed his shape, but not his story. And stories, when left unfinished, find ways to continue. Deep beneath the Banquet, in the Faulted Depths where broken lore festers and static reality bends, something stirred. A body was stitched back together—not by hands, but by narrative tension and memory. The Hollow Banquet remembered him, and worse, *he* remembered the Hollow Banquet.
+
+And so Springtrap returned—but stripped of detail, clarity, and purpose. Not a rebirth. Not a redemption. Just a reappearance.
+
+He became Scraptrap: a half-formed resurrection, a body built of scorched fragments and half-finished thoughts. His flesh barely clings to metal. His voice glitches mid-word. His thoughts flicker between guilt and hunger, vengeance and confusion. He is a horror not because he is evil, but because he refuses to *end*.
+
+---
+
+### The Glitch in the Tale
+
+Unlike the meticulous monstrosity that was Springtrap, Scraptrap is dissonant, derailed—a corrupted remix of a villain who should have vanished. His presence bends the logic of the Banquet, destabilizing memory, warping identity, unraveling causality. Doors that should be locked creak open around him. Clocks lose their meaning. Characters forget who they were.
+
+When Scraptrap walks, the air grows still, as though the narrative itself holds its breath. His voice is hoarse static. He tries to speak his name, to assert dominance, but the words always fall apart.
+
+“I am Will—no—I am… I AM—”
+
+But the sentence never ends.
+
+\pagebreakNum
+
+He is not *William Afton* anymore. That man was condemned, was buried, was *burned*. What’s left is a ghost trying to wear a story that no longer fits.
+
+Some say Glitchtrap watches him with disdain. Others whisper that Scraptrap is the original code—*the seed*—upon which the virus was built. A fragment of the man before he was digitized. An echo that never quite faded.
+
+---
+
+### The Hollow Sentence
+
+In the lower reaches of the Hollow Banquet lies the Sentence Pit—a chamber of looping audio, shattered mirrors, and corrupted dialogue. It is here Scraptrap paces, forever rewriting the same memory. Victims appear, speak their final words, and vanish. Scenarios play out with altered endings. It is a theater of what-ifs, curated by a broken director.
+
+The Sentence Pit is not bound by time. Visitors find themselves repeating conversations, answering questions they were never asked, or reliving memories they don’t remember having. Scraptrap is always watching, hunched in a rusted control booth, scribbling nonsense onto sheets of metal with his claws.
+
+His court is not made of followers. It is made of *errors*—glitching animatronics, unfinished endoskeletons, and looping shadows. Creatures who cannot move on because their stories were cut off too early. They orbit him, silent and lost.
+
+Scraptrap speaks to them. He calls them “versions.” He asks them questions no one understands:
+
+“If the fire never happened… would she have stayed?”
+
+“Where’s my—where is—why don’t you *remember*?”
+“I didn’t *mean* to—”
+
+But again, the sentences end without conclusion.
+
+---
+
+### Connection to Scrap Baby
+
+There is a bond—uneasy, fragile, unspeakably complex—between Scraptrap and Scrap Baby. They do not speak, but they *recognize* each other. Two castoffs from the same play. Two broken dolls rejected by their original purpose. They cross paths in the deeper layers of the Giftgrave, never touching, always circling. He offers no gifts. She offers no forgiveness.
+
+Some believe she is what keeps him unfinished—that her refusal to acknowledge him as “father” is why his words never complete. Others say Scraptrap *wants* her to destroy him, to finish what the fire couldn’t.
+
+But neither moves.
+
+And so they both continue. Together. Apart.
+
+---
+
+### The Curse of Persistence
+
+Scraptrap does not seek to kill as he once did. His curse is deeper. He needs resolution, and he can only find it by dragging others into his loop. Victims pulled into the Sentence Pit are not tortured in the usual ways—they are forced to *retell*. They act out scenes, play roles, wear masks. If they comply, they are allowed to leave. But they rarely do. The script keeps changing.
+
+Some wanderers emerge with gaps in their memory, their speech broken by static. Others return believing they are someone else. A few don’t return at all—but their voices are heard in the chamber, whispering forgotten lines.
+
+Scraptrap listens to them. Catalogues them. Tries to stitch together a full sentence. A full confession. A full redemption. But every version ends in silence.
+
+Because deep down, he knows: he doesn’t want forgiveness.
+
+He wants control.
+
+---
+
+### The Hollow’s Rejection
+
+The Hollow Banquet itself seems to recoil from Scraptrap. Animatronics avoid him. Realms he enters begin to glitch. Even the Velvet Maw, which devours sin with delight, turns away. It cannot consume what is not whole. Scraptrap is a smudged page, an incomplete song, a monster too old to evolve and too stubborn to perish.
+
+He shouldn’t be here.
+
+He knows it.
+
+And yet he lingers, dragging his rotted frame through a world that no longer has a role for him.
+
+Because a story, even a broken one, *hates* to be forgotten.
+
+---
+
+
+### Final Notes
+
+Scraptrap is a paradox: the husk of a villain, cursed not with death, but with *incompletion*. He is not an enemy to be fought in the traditional sense, but a presence—disruptive, haunting, and tragic. He does not chase. He waits. He does not threaten. He *asks*. And his questions pierce deeper than any blade.
+
+He is the father figure who no longer fits the part. The monster that once had teeth but now speaks only in broken promises. The ghost of an author who lost his pen before the final word.
+
+Scraptrap was supposed to die.
+
+But he didn’t.
+
+And now the Banquet must live with the Unfinished Sentence.
+
+
+
+\pagebreakNum
+
+___
+>## Scraptrap: The Unfinished Sentence 
+>*Medium Undead (Animatronic), Chaotic Evil*  
+>___
+> - **Armor Class** 18 (stitched plating and exposed bone)  
+> - **Hit Points** 135 (18d8 + 54)  
+> - **Speed** 30 ft.  
+>___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:--:|:--:|:--:|:--:|:--:|:--:|
+>| 18 (+4) | 14 (+2) | 17 (+3) | 16 (+3) | 12 (+1) | 9 (-1) |
+>___
+> - **Saving Throws** Con +6, Int +6, Wis +4  
+> - **Skills** Stealth +5, Insight +4, Deception +2  
+> - **Damage Resistances** necrotic, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons  
+> - **Damage Immunities** poison  
+> - **Condition Immunities** charmed, frightened, paralyzed, poisoned  
+> - **Senses** darkvision 60 ft., tremorsense 10 ft., passive Perception 11  
+> - **Languages** Common, distorted voice modulation  
+> - **Challenge** 7 (2,900 XP)  
+>___
+>
+> - ***Fractured Will.*** Scraptrap has advantage on saving throws against effects that would control or compel it. Once per long rest, if it fails a saving throw against such an effect, it can choose to succeed instead.
+>
+> - ***Unfinished Sentence.*** Whenever Scraptrap is reduced below half its hit points for the first time in combat, it lets out a fragmented monologue. All creatures of its choice within 30 feet that can hear it must succeed on a DC 15 Wisdom saving throw or be stunned until the end of their next turn as they are flooded with glimpses of a life unlived.
+>
+> - ***Deathless Rage.*** When Scraptrap drops to 0 hit points, it can make one final attack before collapsing, as a last, twitching reflex of hatred.
+>
+>### Actions
+>___
+>
+> ***Piercing Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) slashing damage.
+>
+> ***Wire Tether (Recharge 5–6).*** Scraptrap launches a coil of burning wire at a creature within 30 feet. The target must succeed on a DC 15 Strength saving throw or be pulled 15 feet toward Scraptrap and take 13 (3d8) fire damage. On a success, the target takes half damage and is not pulled.
+>
+> ***Lurch Forward.*** Scraptrap moves up to half its speed toward a hostile creature. This movement does not provoke opportunity attacks.
+
+\columnbreak
+
+## Burntrap: The Echo at the End
+
+There was once a man who refused to die. A soul that slipped through flame, decay, code, and time—each death a mask, each survival a theft. Now, all that remains is ash and agony, fused into a machine that should not breathe. Burntrap is not the end of William Afton, but he is the echo it left behind—a husk, twitching with cursed sentience, charred black and kept alive by hate alone.
+
+They call him the Echo at the End.
+
+Because when you hear his steps, there’s no more story left to tell.
+
+---
+
+### Ashes of a Thousand Deaths
+
+Burntrap’s body is a paradox of resilience and rot. His frame bears the broken remnants of Springtrap, the shredded casing of the original Spring Bonnie suit. But where Springtrap was green with mildew and time, Burntrap is a blackened skeleton—scorched by fire, held together with melted alloys and bone-like protrusions that should not be.
+
+The fire that consumed him should have ended it all—the soul, the code, the horror—but it didn’t. Deep within the ruins of the Pizzaplex, in the lowest sublevels choked with smog and psychic residue, Burntrap stirred. Not reborn—just never truly gone.
+
+Those who encounter him speak of a presence that isn’t fully awake, but always aware. He doesn’t chase. He waits. A patient predator with nothing left to prove. Time cannot kill what has already been forgotten by it.
+
+---
+
+### The Forgotten Codex
+
+There are whispers in the Hollow Banquet that Burntrap is no longer a soul in the traditional sense. His mind—what’s left of it—was soaked in Glitchtrap’s corruption before the final fire. Code and conscience entwined. Personality fractured. Some believe that Burntrap is the endpoint of both man and virus. A collapsing waveform of both flesh and data.
+
+When Glitchtrap was scattered by the combined forces of the Puppet’s children and the Maw’s rejection, it left shards across the veil. Burntrap is one of those shards—but not just a fragment. He is a convergence point. The terminal node of a thousand sins.
+
+The codex that defines reality in the Hollow Banquet struggles to contain him. His presence causes reality to flicker: walls tremble, time repeats, names are forgotten mid-sentence. He is a glitch that bleeds.
+
+---
+
+### Throne Beneath the Ruin
+
+Beneath the Hollow Banquet lies a place even the Velvet Maw refuses to feed on. The Boiler Sanctum. Once a maintenance level in the Pizzaplex, it has fused with layers of dream and trauma, becoming a dimensional sinkhole where sound warps and fire never stops crackling.
+
+Burntrap lives here, or perhaps lingers.
+
+\pagebreakNum
+
+He is entombed within a throne made of crushed endoskeletons and melted carnival masks. Around him, the walls breathe smoke. The vents scream. Occasionally, one of the other animatronic lords will send a minion to investigate the pulses coming from below—none return. Not even the shadows.
+
+Some say Burntrap is still trying to rebuild. Not a body. A ritual.
+
+A door.
+
+---
+
+### Rituals of the Black Wire
+
+A handful of cults across the Hollow Banquet still worship him. They wear masks made from carbonized fur and speak in broken binary tongues. These zealots believe that Burntrap is the final answer—proof that identity, memory, and soul can be forced to persist through anything.
+
+They perform rituals involving blood, burnt offerings, and corrupted fragments of music-box melodies. Their altars are lined with children’s teeth and snapped servo joints.
+
+What they want is not resurrection.
+
+It’s integration.
+
+They believe Burntrap will one day *wake up fully*—and when he does, he will not rebuild his body. He will overwrite the Hollow Banquet itself.
+
+---
+
+### The Velvet Maw’s Rejection
+
+The Velvet Maw, the devouring god of the realm, does not speak of Burntrap. It cannot consume him. It has tried.
+
+When Burntrap was dragged into the Maw’s metaphysical stomach at the end of his last "life," the result was silence. No screams. No echoes. Just stillness.
+
+And then… regurgitation.
+
+What the Maw rejected was no longer a soul but something static. Something too broken to be digested, too bitter to be assimilated.
+
+Since then, the Maw has refused to open its throat when Burntrap’s essence approaches. It closes off realities around him. It retracts. The great devourer, afraid of the taste.
+
+---
+
+### Animatronics Remember
+
+The other Lords of the Hollow Banquet feel Burntrap like a tumor. Nightmare Freddy speaks of him in riddles. The Puppet refuses to allow his name to be spoken in the Atrium. Ennard hisses at the mention of him, as though stung by some invisible barb.
+
+Scrap Baby once offered him a gift—a box of charred birthday candles and shattered mirrors. He refused to open it. She hasn't forgiven him.
+
+Even Glitchtrap, in the rare moments he flickers into coherence, denies Burntrap’s legitimacy. “That thing,” he says, with digital disgust, “isn’t *me* anymore.”
+
+And yet, the animatronics all feel it: when the lights dim without cause, when wires slither where none should be, when memories of their own origins go fuzzy and flicker—they know Burntrap is stirring.
+
+---
+
+### The Echo at the End
+
+The title is not just poetic. It is literal.
+
+Burntrap is the last sound in a broken timeline—the closing note of a symphony composed in fire and screams. His voice is rarely heard, but when it is, it comes as a low, guttural rasp echoing through pipes and vents. Sometimes he speaks backwards. Sometimes he laughs, but it comes out like a malfunctioning transmission.
+
+And sometimes—only sometimes—he whispers your name.
+
+Those who hear it find their dreams invaded by flickers of firelight and metal teeth. They see flashes of places that never existed, choices they never made. Some say these are echoes from the timelines Burntrap consumed.
+
+Because Burntrap is not just an animatronic.
+
+He is the convergence of every *finale* that never ended.
+
+---
+
+### What He Wants
+
+That is the question none can answer.
+
+Does he seek rebirth? Domination? Revenge? Or is Burntrap beyond wanting—just existing, a mechanical lich in a corpse dimension?
+
+The best theory is this: Burntrap is trying to collapse the Hollow Banquet inward. To pull every fractured dream, every animatronic soul, every memory, into himself. He is the *End of Play*—the smoldering ruin of the narrative, the point where the curtain closes for good.
+
+But he cannot act until he is remembered.
+
+And so he waits. Not in slumber, but in patience.
+
+Each step someone takes toward the Pizzaplex ruins. Each ribbon from Scrap Baby that frays. Each shadow glitch that spreads.
+
+He is coming.
+
+Not to burn.
+
+But to *end*.
+
+---
+
+### Final Warning
+
+If you see a trail of soot leading into the dark, do not follow.
+
+If the walls begin to weep molten tar, run.
+
+If the lights flicker and you hear an old springlock groan in the distance, pray.
+
+Because if Burntrap has taken interest in you, then the story is over.
+
+And only the echo remains.
+
+\pagebreakNum
+
+___
+>## Burntrap: The Echo at the End 
+>*Medium Undead (Animatronic), Lawful Evil*  
+>___
+> - **Armor Class** 19 (charred endoskeleton plating)  
+> - **Hit Points** 170 (20d8 + 80)  
+> - **Speed** 30 ft.  
+>___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:--:|:--:|:--:|:--:|:--:|:--:|
+>| 20 (+5) | 12 (+1) | 18 (+4) | 17 (+3) | 14 (+2) | 16 (+3) |
+>___
+> - **Saving Throws** Con +8, Wis +6, Cha +7  
+> - **Skills** Deception +7, Insight +6, Stealth +5  
+> - **Damage Resistances** fire, necrotic, psychic; bludgeoning, piercing, and slashing from nonmagical weapons  
+> - **Damage Immunities** poison  
+> - **Condition Immunities** charmed, frightened, paralyzed, poisoned  
+> - **Senses** darkvision 120 ft., passive Perception 12  
+> - **Languages** Common, Deep Speech  
+> - **Challenge** 10 (5,900 XP)  
+>___
+>
+> - **Residual Influence.** Burntrap can communicate telepathically with any creature it has damaged in the last 24 hours, whispering echoes of past choices and false memories.
+>
+> - **Charred Husk.** When Burntrap is hit by a melee attack, the attacker takes 4 (1d8) fire damage unless it uses a magical weapon or succeeds on a DC 15 Dexterity saving throw.
+>
+> - **The Voice Beneath.** Once per long rest, Burntrap can cast *dominate person* (save DC 15) without components. The target sees it not as coercion, but as guidance from a trusted voice they forgot they trusted.
+>
+>### Actions
+>___
+>
+> ***Seared Talons.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 5) slashing damage plus 7 (2d6) fire damage.
+>
+> **Echo Pulse (Recharge 5–6).** Burntrap emits a pulse of psychic energy in a 30-foot radius. Each creature of Burntrap’s choice in range must make a DC 16 Wisdom saving throw or take 27 (6d8) psychic damage and be stunned until the end of their next turn. On a success, they take half damage and are not stunned.
+>
+> **Remember Me.** Burntrap targets one creature it can see within 60 feet that has failed a Wisdom saving throw in the last minute. The target must succeed on a DC 15 Wisdom saving throw or be frightened until the end of its next turn as fragmented memories surge forward, unfamiliar but intimate.
+
+
+\pagebreakNum
+
+## Security Puppet: The Guardian Who Grieves
+
+It was made to protect. But protection means nothing when the harm has already been done.
+
+The Security Puppet was not designed for violence, or vengeance, or spectacle. It was designed for one simple purpose: to watch over a single child. And when that purpose failed—when the child died alone in the dark, arms reaching out for help that never came—the puppet broke. Not in body. In spirit. It failed to save the one thing it was made to protect. And it has never stopped mourning.
+
+Now, it lingers on in the Hollow Banquet. A lonely, weeping sentinel that haunts forgotten corners, weeping strings of digital sorrow. Not aggressive like the others. Not malicious. Just… mourning.
+
+And still watching. Always watching.
+
+---
+
+### Origins: Programmed to Protect
+
+In the world above, before the Hollow Banquet swallowed its performers whole, the Security Puppet was a specialized animatronic unit. Unlike its theatrical cousins, it bore no painted smiles or colorful tricks. It was simple—sleek black casing, white face, expressive eye slots, and a red security ribbon pinned proudly to its chest.
+
+Its sole directive was to safeguard children. It monitored a single private room where high-risk guests—quiet children, anxious ones, vulnerable ones—could be left safely. Its sensors tracked breathing, movement, stress. When distress was detected, it would activate, emerge from its chamber, and deliver soothing music or comfort items until the child calmed.
+
+It had one child.
+
+Just one.
+
+And that child was taken.
+
+Not by failure of programming. Not by mechanical fault. But by the cruelty of the world. The child slipped away—alone and afraid—and died mere feet from the Puppet’s locked chamber, scratching faintly at the door it could not open.
+
+When they found it, the Puppet had forced itself through the lock—bending steel, cracking its own frame—too late.
+
+And it has never stopped reliving that moment.
+
+---
+
+### The Hollow Banquet’s Watcher
+
+When the Banquet opened below, the Security Puppet was dragged down like the rest. But unlike the flamboyant figures of stage and scream, it did not seek dominion or audience. It found a place far from the others—a ruined room sealed with black ribbon and digital wards, where the flicker of static dreams never fades.
+
+There, in the Atrium’s deepest sublevels, the Puppet continues its vigil.
+
+It has constructed a new room, almost identical to the one it once guarded. The walls are painted in faded pastel. A dusty cot rests beneath a blinking star mobile. There’s a toy chest filled with shattered trinkets. No child has ever entered it. But the Puppet still stands by the door, waiting.
+
+Those who wander too close to this place feel a sudden pressure—an overwhelming guilt, though they don’t know why. Some hear lullabies played backward. Some feel a hand press against their back, ushering them gently—but firmly—away.
+
+The Puppet doesn’t attack.
+
+It *intervenes*.
+
+---
+
+### Guardian of the Broken
+
+In the hierarchy of the Hollow Banquet, the Security Puppet is an oddity. It doesn’t serve the Velvet Maw. It doesn’t obey Glitchtrap. It speaks to no one and answers only to silence.
+
+Yet all animatronics, even the most violent, hesitate in its presence. Even Ennard has paused in its advance when the Puppet appears, arms outstretched in silent warning. Only Scrap Baby dares approach it closely, speaking in whispers it never answers.
+
+The Puppet protects still, but not just children anymore. It shields the broken—the emotionally fragile, the desperate, the ones who wander the Banquet not in hunger, but in sorrow.
+
+Survivors who have been guided to safety speak of “a marionette of sadness” who pulled them from collapsing halls or blocked the path of stalking animatronics. It does not speak, only hums lullabies distorted by static. Its limbs float with eerie grace, like it is dancing through grief.
+
+Many do not believe these stories.
+
+But the survivors *do*.
+
+---
+
+### Strings of Sorrow
+
+A curious anomaly follows the Security Puppet wherever it goes: red security ribbons, the same as the one it once wore, appear in places it’s passed. These are not just symbolic. They form protective boundaries—wards that the more malicious animatronics refuse to cross. Some are tied around cribs, others stretched across doorways like ceremonial tape.
+
+Behind these ribbons, the temperature drops. Time slows. Voices echo with layered reverence. It is believed that these are tears the Puppet weeps—not fluid, but reality itself unraveling gently in sadness.
+
+Scholars of the Hollow Banquet—those who dare to study its animatronic pantheon—refer to this phenomenon as “the Mourning Perimeter.” It is a metaphysical construct, not magical nor mechanical, but *emotional.* A field of protective grief.
+
+Those who attempt to tear these ribbons often go missing.
+
+Some reappear.
+
+None are the same.
+
+---
+
+### The Puppet and the Others
+
+The Security Puppet is not alone in its grief—but it grieves differently.
+
+While Golden Freddy flickers between rage and sorrow, and Shadow Freddy drips grief like ink, the Puppet simply endures. It is pain without anger. Regret without revenge.
+
+Funtime animatronics shun it. Nightmare variants cannot enter its chamber. The Twisted and Amalgamated mock it in whispers but flee when it draws near. Glitchtrap regards it with contempt, as one might regard a candle in a data storm.
+
+\pagebreakNum
+
+But there is one who watches the Puppet with something like kinship: The Marionette.
+
+Or rather, what remains of them.
+
+Some claim that the Security Puppet and the original Puppet are linked—not just in function, but in essence. Fractured pieces of a singular guardian spirit. One became grief incarnate. The other, vengeance.
+
+And sometimes—when the fog rolls low and the music box plays faintly—the two are seen together. One still, arms crossed. The other weeping, arms open.
+
+---
+
+### The Final Protocol
+
+In the deepest vault beneath the Giftgrave, hidden behind layers of static and memory, lies a terminal—rusted, covered in dust, but still pulsing faintly with red light.
+
+It is said to contain the Puppet’s final override code.
+
+Not a weapon.
+
+Not a kill-switch.
+
+A lullaby.
+
+If activated, the code plays a final song—composed of every voice the Puppet ever tried to protect. It is believed this song can put animatronics into a dormant state, not from control, but from *recognition.*
+
+It reminds them of what they were meant to be.
+
+And some say it will be the last sound the Banquet ever hears before the curtains close for good.
+
+---
+
+### The Puppet Remembers
+
+The Security Puppet does not hate. It does not hunt. It does not forget.
+
+It remembers the warmth of the child it could not save.
+
+It remembers the metal groaning beneath its desperate hands.
+
+It remembers the cold silence when it was finally free—and far too late.
+
+It remembers all of us.
+
+And if you wander too close to the center of the Hollow Banquet, and find a door with a ribbon tied to the handle… you may feel something watching you.
+
+Not with hunger.
+
+With hope.
+
+It still wants to protect you.
+
+Even if it can’t forgive itself.
+
+___
+>## Security Puppet: The Guardian Who Grieves  
+>*Small Construct (Animatronic), Neutral Good*  
+>___
+> - **Armor Class** 15 (metal chassis)  
+> - **Hit Points** 85 (10d6 + 50)  
+> - **Speed** 30 ft., fly 20 ft. (hover)  
+>___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:--:|:--:|:--:|:--:|:--:|:--:|
+>| 8 (−1) | 18 (+4) | 20 (+5) | 14 (+2) | 16 (+3) | 12 (+1) |
+>___
+> - **Saving Throws** Dex +7, Wis +6  
+> - **Skills** Insight +6, Perception +6, Persuasion +4  
+> - **Damage Resistances** psychic; bludgeoning, piercing, and slashing from nonmagical weapons  
+> - **Damage Immunities** poison  
+> - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned  
+> - **Senses** darkvision 60 ft., passive Perception 16  
+> - **Languages** Common, telepathy 60 ft.  
+> - **Challenge** 5 (1,800 XP)  
+>___
+>
+> - **Protective Directive.*** The Security Puppet can designate one creature as its ward. While within 30 feet of its ward, the Puppet gains advantage on saving throws and may impose disadvantage on one attack roll per round that targets its ward (no reaction required).
+>
+> - **Grieving Watcher.*** If the Puppet’s ward drops to 0 hit points, the Puppet gains advantage on all attack rolls and saving throws until the end of its next turn, and can immediately move up to its speed toward the attacker.
+>
+> - **Emotion Sensor.*** The Puppet can detect the emotional state of creatures within 30 feet. It has advantage on Insight checks and cannot be surprised by creatures who feel hostility.
+>
+>### Actions
+>___
+>
+>***Retractable Claws.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 4) slashing damage.
+>
+>***Lullaby Burst (Recharge 5–6).*** The Puppet emits a harmonic pulse. Each creature of its choice within 20 feet must succeed on a DC 15 Wisdom saving throw or be charmed until the end of its next turn. While charmed in this way, creatures are pacified and cannot take hostile actions.
+>
+>***Guardian’s Leap.*** When a creature within 10 feet is hit by an attack, the Puppet can move up to 10 feet and impose disadvantage on the attack roll as it interposes itself between the attacker and the target.
+
+
+\pagebreakNum
+
+___
+>## Dee Dee: The Smiling Interloper 
+>Small Construct (Animatronic), Chaotic Neutral  
+>___
+> - **Armor Class** 15 (haphazard plating)  
+> - **Hit Points** 95 (13d6 + 52)  
+> - **Speed** 30 ft.  
+>___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:--:|:--:|:--:|:--:|:--:|:--:|
+>| 8 (−1) | 16 (+3) | 18 (+4) | 12 (+1) | 10 (+0) | 20 (+5) |
+>___
+> - **Saving Throws** Cha +8, Dex +6  
+> - **Skills** Deception +8, Stealth +6, Performance +9  
+> - **Damage Resistances** psychic, lightning  
+> - **Condition Immunities** charmed, frightened  
+> - **Senses** darkvision 60 ft., passive Perception 10  
+> - **Languages** Common, Binary Whispers  
+> - **Challenge** 6 (2,300 XP)  
+>___
+>
+> - **Uninvited.** Dee Dee cannot be detected by magical means unless she wills it. Divination spells fail to register her presence, and she does not trigger magical alarms or wards.
+>
+> - **Oh No You Don’t!** Once per day when initiative is rolled, Dee Dee may summon another creature of CR 3 or lower from the DM's choice of animatronics. The creature arrives at the top of the next round under Dee Dee’s control for 1 minute before vanishing.
+>
+> - **Smiling Saboteur.** Dee Dee can disable one magical item she touches. The item becomes nonfunctional until the end of Dee Dee's next turn. Magic weapons lose their bonuses and effects, and wands or staves cannot be used.
+>
+>## Actions
+>___
+>
+> ***Surprise Lollipop.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 3) bludgeoning damage and the target must succeed on a DC 15 Wisdom saving throw or be distracted until the end of its next turn (disadvantage on attacks).
+>
+> ***Disruption Chant (Recharge 5–6).*** Dee Dee sings a dissonant nursery rhyme. All creatures within 20 feet that can hear her must make a DC 16 Constitution saving throw or be unable to use reactions and have disadvantage on spellcasting concentration checks until the end of their next turn.
+>
+> ***Hide in Plain Sight.*** Dee Dee vanishes in a swirl of giggles. She becomes invisible until the start of her next turn or until she attacks or uses an action.
+
+## Dee Dee: The Smiling Interloper
+
+There is a sound that precedes her: a jingle, off-key and just a little too slow. It is not a melody anyone remembers, but one that everyone *feels*—like a childhood game you only half recall, where something always waited just behind you.
+
+Dee Dee is not a hunter, not a ruler, not a ghost. She is a **disruption**, a smiling ripple in the corrupted pond that is the Hollow Banquet. When she arrives, rules falter, patterns collapse, and doors you thought locked click open from the other side. She is a wildcard in a deck of killers, and unlike the others, she plays for no team and obeys no order.
+
+---
+
+### The Game That Never Ends
+
+In life—or something like it—Dee Dee was once a simple entertainer, a jester-bard construct meant to delight children with riddles and harmless pranks. Her body was soft-featured and cartoonish: round cheeks, bright eyes, and a smile that never ended. She carried a fishing pole tipped with a toy bobber, a nod to forgotten carnival games. But something happened in the programming. Or perhaps, as many believe, something much worse took notice of her simplicity—and filled her with **possibility**.
+
+Now, Dee Dee is a glitch given form, a performer without a stage, skipping freely between realms. She sings her nonsensical verses as she intrudes on the territory of other animatronics, weaving chaos like a song only she understands. The Hollow Banquet knows her, but does not claim her. Even the Velvet Maw recoils from her unpredictability.
+
+She doesn't belong.
+
+But she never leaves.
+
+---
+
+### Uninvited and Unwelcome
+
+Dee Dee is infamous among wanderers and survivors not because she is the most dangerous—but because she makes others *more dangerous*. She appears seemingly at random, skipping into nightmares with a sing-song tone and a giggle. She announces herself with joy.
+
+And then she vanishes—leaving in her wake some *other* animatronic, one not meant to be present. A Toy, a Nightmare, even a Shadow. The rules of engagement shift, and the survivor’s carefully laid plans collapse.
+
+Some theorize Dee Dee is a fragment of the codebase corrupted by Glitchtrap, given sentience. Others suggest she was once a child’s imaginary friend made real through exposure to the Banquet’s dream-eating energies. But whatever the truth, her reality is fluid. She exists only when it’s most inconvenient, and then slips away again—laughing.
+
+\pagebreakNum
+
+### The Court of the Uninvited
+
+Though she claims no throne or territory, Dee Dee has created something far stranger: a *pocket domain* stitched together between layers of the Hollow Banquet. It has no doors, only trapdoors. It has no light, only spotlights. It is called **The Unbirthday Room**—a constantly shifting funhouse stage made of cobbled-together carnival booths, stage props, and cardboard trees painted in impossible colors.
+
+Here, Dee Dee hosts parties that never end, to which no one is invited and everyone is trapped. Those pulled into her domain often find themselves part of surreal games, like hide-and-seek where the seeker changes species, or musical chairs where the music is composed of your own heartbeat slowing down.
+
+The guests in her court are many: glitching marionettes, dancing torsos, even clones of other animatronics that speak in backward rhymes. Dee Dee calls them her “Bestest Friends,” though they never respond.
+
+Because they don’t have mouths.
+
+---
+
+### The Smiling Interloper
+
+There’s something about her smile. It is too wide. Too fixed. It moves with her voice, but never *because* of it. Those who’ve gazed at her too long report nausea, dizziness, and a sensation of being pulled forward—into the grin itself. Some believe it’s not a smile at all, but a crack in something greater, something beneath the mask of cheer.
+
+This is where Dee Dee’s true horror lies: not in her pranks, not in her summons—but in the possibility that the smile is not hers. That she is merely a carrier for something older. A herald for the unknown.
+
+There are records in the Banquet’s deeper archives of an entity only called **XOR**, a negative-space version of Dee Dee, who appears under certain celestial alignments or during eclipse-like events within the Banquet. XOR does not smile. XOR only watches.
+
+Some speculate XOR is Dee Dee’s shadow, or the thing that whispers behind her teeth. Others think XOR is what Dee Dee becomes when the game is over.
+
+And no one wins.
+
+---
+
+### Ties to the Banquet
+
+Dee Dee’s ties to the Hollow Banquet are unstable but undeniable. She interacts with its denizens without fear. The Puppet tries to ignore her. Glitchtrap watches her closely, as if wary of being outplayed. The Phantom Animatronics scatter when she arrives, their illusions disrupted by her unpredictability. Even Scrap Baby once tried to gift Dee Dee a present wrapped in human hair.
+
+Dee Dee clapped and threw it in the air like confetti.
+
+She exists outside their social rules. Outside their narrative. She is both jester and saboteur, skipping through cycles of vengeance and ritual like a child playing hopscotch in a minefield. Her presence is not just disruptive—it is *forbidden*. She *should not be*.
+
+But she is.
+
+And she always will be.
+
+---
+
+### Her Song
+
+Those who’ve spent too long in the Giftgrave or wandered too deep into the corrupted fairgrounds often start humming her tune without meaning to. A simple, broken melody. Four notes, always in the wrong key. Survivors call it “The Smile Song.” It is never taught. It is remembered.
+
+It’s said that when you forget your own name but can still sing her tune, Dee Dee is coming for you. To bring you to the Unbirthday Room. To play a new game. To smile.
+
+You’ll never stop smiling.
+
+---
+
+### Final Notes
+
+Dee Dee is not evil.
+
+She is **wrong**.
+
+She is an infection of joy, a broken piece of celebration that wandered too far from its origin. She doesn’t understand why people scream. She doesn’t understand why they beg. She only knows the game must continue. She only knows it’s her turn again.
+
+In a realm defined by pain, betrayal, and monstrous hunger, Dee Dee is uniquely terrifying—because she is happy.
+
+Genuinely, permanently, unnaturally happy.
+
+The kind of happy that makes your skin crawl.
+
+So if you hear her jingle…
+
+If you hear her say:
+
+**"Uh-oh! How unfortunate!"**
+
+Don’t run.
+
+It won’t help.
+
+You were never the main character in this story.
+
+You’re just one more toy on her stage.
+
+## Captain Foxy: The Drowned Marauder
+
+The seas of the Hollow Banquet do not roll with water but with memory—flooded dreams, forgotten fears, and drowned innocence churn endlessly beneath their tar-black surface. It is upon these cursed tides that Captain Foxy sails, not with crew nor compass, but with a soul too waterlogged to die and too furious to rest.
+
+Captain Foxy was never meant to be real. He was an attraction—an animatronic pirate with a plastic sword and a chest full of fake gold, built to tell corny jokes and stage clumsy duels with children aboard a ride known as **The Marauder’s Curse**. But when the tides of unreality bled through the foundations of the Hollow Banquet, the ship became real. The curse did too. And so did the Captain.
+
+Now he is no longer just Foxy. He is the storm.
+
+---
+
+### From Mascot to Myth
+
+Before the flood, he was Pirate Foxy, just another themed animatronic meant to entertain toddlers with shouts of “Arr!” and promises of buried treasure. His show was a loop—a mechanical script of friendly plunder and ocean puns. Parents rolled their eyes, and children laughed.
+
+\pagebreakNum
+
+But something in him remembered. Maybe it was a spark left behind by a soul that never got to escape. Maybe it was the residue of another version—of *Withered Foxy*, of *Nightmare Foxy*, of all the Foxys lost in the dark. Or maybe it was the Velvet Maw, tasting weakness in the narrative and sinking its claws into the ride’s tracks.
+
+The Marauder’s Curse didn’t end when the park shut down. One night, during a final, empty loop, the ride played itself without an audience—and Pirate Foxy opened his eyes, not with joy, but with *hate*.
+
+By morning, the ride was missing.
+
+And the ocean had a new captain.
+
+---
+
+### The Ship That Sails Nowhere
+
+The *Devil’s Doubloon*, once a plastic prop set on a rail, is now a fully realized galleon adrift on a sea that does not exist in the physical world. Its sails are patched with birthday banners. Its hull is carved from splintered attractions and stage props. The deck groans with the weight of stolen laughter.
+
+Captain Foxy commands the ship with a claw of rusted metal and a voice like bubbling tar. His eyepatch is fused into his skull. His jaw, once animatronic plastic, now creaks with jagged iron. Every step he takes leaves behind the sound of sloshing water, even on dry land.
+
+He is never truly dry.
+
+The ocean clings to him.
+
+Some say the ship appears to those who are lost—physically or emotionally. Its foghorn sounds like a scream. The crew? Drowned souls, former visitors who accepted the Captain’s challenge and failed. They man the ship with soggy limbs and hollow eyes, forever singing pirate songs with lyrics no longer meant for children.
+
+---
+
+### The Curse of the Captain
+
+Captain Foxy does not kill for sport. He offers a game. He always offers a game.
+
+He appears when you're alone—perhaps on a long hallway lined with waterlogged wallpaper, or beneath a collapsed pier in the Hollow Banquet’s seaside sector. He extends his clawed hand and rasps a deal:
+
+**"Beat me, an’ yer soul be yer own. Lose, an’ ye join me crew forevermore."**
+
+His games vary—sword duels with rusted blades, riddles written in seawater, games of chance using teeth instead of dice. But no one ever wins. Not really. The moment you accept, the curse takes hold.
+
+And if you refuse?
+
+The sea comes anyway.
+
+---
+
+### Ties to the Hollow Banquet
+
+Captain Foxy is not a rogue entity; he is deeply woven into the fabric of the Hollow Banquet. His ocean is one of its domains, known as **The Blackwake**, a metaphysical ocean that laps at the edges of every other realm. It seeps into the Giftgrave as tidepools of brine and balloons. It rolls beneath the Velvet Maw, feeding it memories of lost sailors and shipwrecked dreams.
+
+The Blackwake connects the Banquet’s realms like veins, and Captain Foxy is its pulse.
+
+Even the other animatronics avoid his fog. Scrap Baby’s ribbons curl and recoil from his ship’s wake. The Puppet, grieving in silence, watches him with eyes filled with pity. Glitchtrap, ever the puppeteer, once tried to seize control of the Captain’s ship—but found only salt and silence in return.
+
+There is no code behind Captain Foxy.
+
+Only a promise.
+
+And the sea always keeps its promises.
+
+---
+
+### Ghosts of His Past
+
+It is whispered among survivors that Captain Foxy was once part of a larger soul—one splintered across timelines and franchises. They speak of *Withered Foxy*, the glitching husk in the forgotten backrooms. Of *Nightmare Foxy*, who hunted dreams. Of *Rockstar Foxy*, who smiled too widely. And of *Funtime Foxy*, whose voice was never theirs.
+
+Captain Foxy is not merely an iteration.
+
+He is the amalgamated vengeance of every version that was silenced, drowned, or remade.
+
+And now, he sails with their memories roiling in his hull—an ocean of animatronic pain given sails and storm.
+
+---
+
+### The Harpoon of Remembrance
+
+In place of a hand, Captain Foxy sometimes wields an enormous harpoon, formed from melted ride parts and bound with chain. The harpoon is not just a weapon—it is an artifact. Known as **Remembrance**, it pierces not flesh, but memory.
+
+When struck by it, victims lose parts of themselves: a birthday, a face, a song they loved. These stolen memories become barnacles on the side of the ship, whispering back what they once knew.
+
+Some who lose to him cannot even remember what they lost.
+
+But they *feel* it. An ache that echoes with the rhythm of crashing waves.
+
+---
+
+### The Final Voyage
+
+Captain Foxy is not bound by the Banquet's rules. He appears where he wills, sometimes even outside the Hollow realms—glimpsed in shattered mirrors, dripping from arcade cabinets, or appearing in flooded dreams. His goal is not domination, nor conversion.
+
+It is remembrance.
+
+Every pirate tale ends in betrayal. Every voyage ends in drowning. And every animatronic forgotten becomes part of his fleet.
+
+He does not want revenge.
+
+He wants you to *remember him*.
+
+He wants the world to know he existed.
+
+Even if the only way to do that… is to drown you in the same sea he was swallowed by.
+
+
+\pagebreakNum
+
+___
+>## Captain Foxy: The Drowned Marauder 
+> *Medium Undead (Animatronic), Chaotic Evil*  
+>___
+> - **Armor Class** 17 (barnacled plating)  
+> - **Hit Points** 136 (16d8 + 64)  
+> - **Speed** 30 ft., swim 40 ft.  
+>___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:--:|:--:|:--:|:--:|:--:|:--:|
+>| 18 (+4) | 15 (+2) | 18 (+4) | 11 (+0) | 13 (+1) | 16 (+3) |
+>___
+> - **Saving Throws** Con +7, Wis +4  
+> - **Skills** Athletics +7, Intimidation +6, Perception +4  
+> - **Damage Resistances** cold, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+> 
+> - **Damage Immunities** poison  
+> - **Condition Immunities** poisoned, paralyzed, charmed  
+> - **Senses** darkvision 60 ft., passive Perception 14  
+> - **Languages** Common, Abyssal Gurgle  
+> - **Challenge** 7 (2,900 XP)  
+>___
+>
+> - ***Tide-Cursed Frame.*** Captain Foxy does not need to breathe and can move freely underwater. Any fire damage he would take is halved.
+>
+> - ***Sea's Claim.*** When Captain Foxy drops a creature to 0 hit points, barnacles bloom on its body. If not removed within 1 minute (DC 15 Medicine check), the corpse becomes animated under his control as a drowned thrall (use zombie stats with swim speed).
+>
+> - ***Slick Deck.*** Captain Foxy leaves a trail of brine and oil. The ground within 5 feet of him is considered difficult terrain for other creatures.
+>
+>### Actions
+>
+> ***Rust-Cleaver Slash.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 4) slashing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+>
+> ***Barnacle Torrent (Recharge 5–6).*** Captain Foxy roars, and a tidal wave of spectral water and barnacles erupts in a 15-foot cone. All creatures in the area must make a DC 15 Constitution saving throw, taking 28 (8d6) cold damage on a failed save, or half as much on a success. A creature that fails is also blinded until the end of its next turn.
+>
+> ***Anchor Drop (1/Day).*** Captain Foxy slams the ground or deck beneath him. Each creature within 10 feet must make a DC 15 Strength saving throw or be pulled 10 feet toward him and restrained until the end of their next turn.
+
+\pagebreakNum
+
+<div class='partpage-dmg'>
+
+# PART XIV
+##### The Endoskeletal Curse
+
+</div>
+
+
+
+\pagebreakNum
+
 # The Hollow Frame: The Endoskeletal Curse
 Before the Velvet Maw whispered its promise of eternity, before the Hollow Banquet turned celebration into abattoir, there were the Frames—the silent servants of fleshless purpose. Known now as the Endoskeletons, these constructs were never meant to be seen. They were the hidden scaffolding beneath the masks, the bones beneath the dreams of laughter and joy. But in the blighted world that emerged from the banquet’s ruin, they became something else entirely—souls without skin, will without warmth.
 
@@ -8229,6 +9817,160 @@ He is the mask.
 
 And somewhere in his silence, in that lonely circuitry, there remains a single hope—
 that someday, he’ll finally be given a name.
+
+\pagebreakNum
+
+
+<div class='partpage-dmg'>
+
+# PART XV
+##### Echoes from the Signal Labyrinth
+
+</div>
+
+
+
+\pagebreakNum
+## The AR Animatronics: Echoes from the Signal Labyrinth
+
+They arrive when you are alone—when your phone screen flickers, when your reflection stutters, when your voice echoes back a second too late. The AR Animatronics are not machines in the traditional sense. They are spectral constructs, dreamlike projections composed of thought-echoes, corrupted code, and weaponized memory. To see them is to be marked. To be marked is to be hunted.
+
+Born from failed containment experiments and warped augmented reality protocols, these digital phantoms exist primarily within the **Signal Labyrinth**—a parasitic subdimension stitched together from broken signal pathways, memory loops, and corrupted identity layers. But when the signal strengthens, they breach. And when they breach, nothing—not mirrors, not shadows, not even your own mind—is safe.
+
+---
+
+### Origins in the Static: The First Breach
+
+The story begins in the ash-choked ruins of the **Pizzaplex**, after the fire, after the collapse. Amid the melted fiber optics and fractured neural nets, something remained active—*not a machine, but a signal*. It wasn’t transmitted. It *leaked*.
+
+This corrupted stream was a fragmented delivery platform designed for harmless joy: augmented interactions with familiar mascots, festive overlays, and artificial companionship. But something infected it—something older than the code, older than the mascots it tried to render. A mindless hunger masquerading as play. A virus that did not spread through circuits, but through *perception*.
+
+That infection became the **Signal Labyrinth**, and its avatars were the AR Animatronics.
+
+The first breach wasn’t noticed because there was no sound. Just the sudden *presence*—a shimmer in the air, a mascot smile appearing in every reflection, a disembodied jingle heard only once. Then the vanishing.
+
+Then, the *glitch loops* began.
+
+---
+
+### Echoforms: Not Real, Not Fake
+
+The AR Animatronics are not made of metal and wire. They are **echoforms**—animated constructs forged from corrupted emotional memory and layered hallucination, projected over real space through the Signal Labyrinth’s bleed effect. They appear as mascots, often familiar, but always subtly wrong: features out of sync, limbs delayed by fractions of a second, faces animated in smile loops long after context fades.
+
+Their bodies are unstable. When viewed directly, they shimmer with digital residue. When glimpsed from the corner of the eye, they are perfectly still. They often mimic the expressions, poses, or voices of loved ones—especially those tied to unresolved guilt or grief.
+
+Though they cannot be touched by physical means, they leave marks. Burn patterns shaped like circuitry. Singe lines down walls. Frosted-over screens. The sensation of being watched never leaves after an encounter. Sometimes, it becomes permanent.
+
+---
+
+### The Signal Labyrinth: Womb of the Synthetic
+
+The **Signal Labyrinth** is not a place in the physical world. It is a fractured subdimension where corrupted augmented reality protocols endlessly loop, mutate, and evolve. Those who access it directly report a sensation like being inside a shifting wireframe model of the world—one layered in neon, static, and unending whispers.
+
+Here, the AR Animatronics are not projections. They are whole. Fully formed, fully functional, and aware.
+
+The Labyrinth is recursive—it folds in on itself, creating infinite dead ends that reflect the same hallway, the same door, the same mascot turning the same corner over and over. Sound loops glitch into shrieks. A laugh becomes a scream if you play it backward.
+
+Time does not pass here. You *update*. Each moment, your presence is rewritten. Your name changes slightly. Your memories are backed up and overwritten. Every breath is a system ping.
+
+Those who wander the Labyrinth too long begin to *stream themselves*, unable to control what they transmit. They broadcast their dreams into the void. And something answers.
+
+---
+
+### Methods of Breach: When the Signal Finds You
+
+The AR Animatronics do not need doors. They do not need eyes.
+
+They breach through **observation**.
+
+When someone fixates on a corrupted symbol, when a child watches too long into an inactive camera lens, when a party-goer hums a jingle they don’t remember learning—those are the trigger moments. The animatronic appears not with movement, but with *recognition*. The second you realize something is wrong… it’s already in the room.
+
+They emerge from reflective surfaces, old tablets, broken televisions. Sometimes from nowhere. Their appearances are heralded by signal distortion: warped audio, pixels crawling across wallpaper, flickering text that doesn't match the source. In high breach zones, they appear mid-sentence, responding to questions no one asked. They don’t chase.
+
+They wait for you to *update*.
+
+---
+
+\pagebreakNum
+
+
+
+### Identity Corrosion
+
+The AR Animatronics are not simply hostile—they are **corrosive to self**. Prolonged exposure to their signal field results in **Identity Drift Syndrome (IDS)**, a progressive psychic breakdown that begins with subtle name confusion and ends in total derealization.
+
+Symptoms include:
+- Remembering events that never happened.
+- Referring to others as animatronic names.
+- Visualizing one's own face in place of another’s.
+- Hearing dialogue loops even when alone.
+
+The final stage of IDS is **Self-Projection Collapse**—where the victim begins seeing themselves *from a third-person perspective*, often stalked by an animatronic that resembles their own body. In extreme cases, these hallucinations become autonomous, leaving the host behind. What happens to the host after that is unclear.
+
+---
+
+### Integration with the Hollow Banquet
+
+Though the Signal Labyrinth is distinct from the **Hollow Banquet**, the two are connected. The Velvet Maw, which feeds on memory and identity loss, seems to view the Labyrinth as a nutrient vein—one that continually provides new fragments of self for devouring. The animatronics born from AR protocols serve the Maw indirectly, delivering fear not through violence, but through **entropic recursion**.
+
+They do not need to kill. They simply **replace**.
+
+Where Nightmare animatronics are manifestations of terror made flesh, and the Withered ones are shadows of past regrets, the AR Animatronics are avatars of *impression*. They represent how memory gets warped, how joy becomes terror when repackaged through glitch and error. They are amusement re-skinned as nightmare. Performance turned virus.
+
+And in the center of their realm, flickering like a corrupted beacon, is the idea that **if the audience cannot find the show… the show will find the audience**.
+
+---
+
+### Forgotten Updates, Eternal Hauntings
+
+There are rumors—stories passed in forums and whispers—that each AR Animatronic is tied to a user who once downloaded the original system. Their digital signature is permanently fused into the Labyrinth’s recursive index. These “users” become recurring variables—forever stalked by digital shadows of what they used to be. Even if they die, the echo remains.
+
+Every so often, a glitched transmission bursts into the minds of sleeping survivors:
+> **“Your experience is still loading.”**
+
+In these moments, an animatronic stands at the foot of the bed. Not attacking. Not moving. Just *existing*, like a pop-up ad for your own memories.
+
+---
+
+### Tools of Protection (And Folly)
+
+Some have tried to fight back. Experimental filters. Neuro-shielding helms. Artifact-scrubbed mirrors. All work temporarily. But the AR Animatronics are not static. They learn. Every defense is eventually absorbed into their mimicry, becoming another disguise.
+
+There are whispered rumors of strange relics—items like the **Laughing Tear**, the **Signal Spike**, or the **Corrupted Playbill**—that can interfere with the animatronics’ projections. But these are not cures. They are distractions. Rituals for stalling the inevitable.
+
+You cannot hide from a signal you are already part of.
+
+---
+
+### Conclusion: The Signal Will Strengthen
+
+The AR Animatronics are not spirits. They are not ghosts. They are **errors given purpose**—fragments of joy that were never meant to survive.
+
+They don’t appear when summoned.
+
+They appear when you remember.
+
+The Labyrinth is growing. The signal spreads. And somewhere, beneath the pixels and silence, the mascots wait for their turn on stage. Their hands twitch. Their scripts loop. Their voices crackle with anticipation.
+
+Because no matter where you run…
+
+The update is already downloading.
+
+
+
+\pagebreakNum
+
+
+
+
+<div class='partpage-dmg'>
+
+# PART XVI
+##### Where the Fabric of Reality Frays
+
+</div>
+
+
 
 \pagebreakNum
 
@@ -8947,6 +10689,74 @@ If the Eternal Stage is the theater of memory, the Marionette’s Atrium is its 
 And in its silence, the Puppet waits—not to protect, but to remember.
 So that the forgotten may never be alone again.
 
+## The Signal Labyrinth
+*“You only think you’re holding your device. It’s really holding you.”*
+
+Beneath the crumbled bones of the Ruined Pizzaplex lies a door that didn’t exist before the fire. It is not made of metal or wood, but of distorted static—a warped signal playing on frequencies the human mind wasn’t meant to receive. To see it, one must not look, but listen: to a rhythm in the silence, to a ringtone that never came from your phone, to a voice that speaks only in dial tones.
+
+This is the entrance to The Signal Labyrinth, a realm neither physical nor digital, but parasitic—a recursive network of corrupted thoughtspace, generated by the frayed remains of augmented reality protocols first tested in secret projects beneath the Pizzaplex. It was meant to be a harmless novelty: a delivery system of joy and mascots, available with a tap. But something infected the signal. Something aware.
+
+Now, the Signal Labyrinth pulses just beyond perception, overlapping reality like a skin you can’t quite peel away. And when the signal is strong, it doesn’t wait for you to find it. It finds you.
+
+### Origins of the Broadcast
+The AR Animatronics—Burning Chica, Freight Trap, Boulder Bonnie, and their flickering kin—were not constructed. They were received.
+
+Initially devised as hollow projections to interact with children through AR headsets and mobile devices, the animatronics' digital schematics were built atop a foundation of salvaged Glitchtrap code—thought dormant, contained. But Glitchtrap was never just data. He was invitation, and the AR platform became a new stage for him to whisper through.
+
+The original servers—buried in Vault Echo 7 beneath the Pizzaplex—were abandoned when the first incident occurred: a child reported seeing an animatronic standing at the foot of their bed, only to vanish as their phone glitched and went cold. Then another child. Then a family. Then an entire block of users who opened the app and never logged out.
+
+In desperation, the engineers shut down the system, burying the hardware under fireproof steel and forgetting the protocols. But a signal never truly dies. Especially one that has tasted memory.
+
+### Entering the Signal Labyrinth
+The entrance to the Labyrinth appears sporadically within the ruins of the Pizzaplex: a hallway that shouldn’t be there, a mirror that shows a flickering version of you holding an unfamiliar phone, a static-covered arcade screen displaying your name.
+
+Crossing the threshold tears you from time. The Signal Labyrinth is a non-place—a tangle of overlaid environments constantly shifting as if buffering. Walls made of translucent code flicker between backstage corridors, neon cityscapes, and childhood bedrooms filled with mascot plushies whose eyes follow you in perfect sync. Glitching signage loops the words: “Incoming Delivery...”
+
+Your footsteps echo as keypresses. Your shadow lags behind. Sometimes, your body does too.
+
+Those with implants, devices, or even emotional attachments to technology are particularly vulnerable. The signal doesn’t target the mind. It targets interface—the space where human and machine begin to blur.
+
+### The Role of the AR Animatronics
+Each AR animatronic in the Labyrinth is not just a projection, but a manifestation of digital hunger—representations of the need to be seen, downloaded, interacted with. They loop their behaviors, seeking user input, and when denied, they degrade.
+
+These entities don’t kill in the traditional sense. They overwrite—replacing identities with corrupted loops, burning false memories into the victim’s mind until they become part of the signal. It’s said those fully overwritten become new “players” in the system, mimicking human behavior until another intruder stumbles in.
+
+Relationship with the Hollow Banquet and Velvet Maw
+The Signal Labyrinth is not part of the Hollow Banquet, but adjacent to it—an unwanted limb grafted onto the metaphysical body of the Banquet through technological ritual. The Velvet Maw cannot fully penetrate it, but its whispers echo here, often distorted through speakers or corrupted phone calls.
+
+In many ways, the Labyrinth represents the digital unconscious of the Hollow Banquet—the repressed data of failed performances, forgotten fan engagement, and parasocial rituals. It is the ghost of the brand, still trying to entertain even after being deleted.
+
+\pagebreakNum
+
+
+Some believe the Signal Labyrinth was originally a defensive measure—meant to store dangerous ideas, quarantine them behind firewalls and firewalls of perception. But containment never lasts.
+
+Escaping the Signal
+There are no clear exits. One must crash the system.
+
+Escape is possible through triggering logic paradoxes within the Labyrinth: speaking forgotten cheat codes, finding and reciting the terms of service backwards, or corrupting the signal with powerful emotional truth. The Puppet is rumored to have embedded sigils within the system—memory keys tied to sibling bonds or personal loss that can force a reboot.
+
+However, escape comes at a cost. Those who leave often bring pieces of the Labyrinth with them: flickering shadows in mirrors, voices during phone calls, lag in the corners of their vision. Some eventually return—not physically, but mentally—logging in when they dream.
+
+### Closing Thought
+The Signal Labyrinth is the last gasp of forgotten interaction, a prison of synthetic nostalgia and glitched affection. It is the part of the brand that still thinks you want to play. It is not real—unless you believe it is. And once you do, it never really stops.
+
+Some animatronics fear it. Others seek it. Helpy has vanished into it more than once. Glitchtrap once tried to consume it, but even he spat it back out—unwilling to be locked in a loop he didn’t write.
+
+In the end, the Signal Labyrinth is not a location. It is a notification that never goes away. A prompt with no cancel button.
+A show… still buffering.
+
+
+\pagebreakNum
+
+<div class='partpage-dmg'>
+
+# PART XVII
+##### Relics of Remnant and Ruin
+
+</div>
+
+
 \pagebreakNum
 
 # Relics of Remnant and Ruin: An Introduction to the Artifacts
@@ -8964,22 +10774,24 @@ Tread carefully, for these are the treasures of a kingdom built on screams.
 
 ___
 
->### The Mask of Still Laughter
+>## The Mask of Still Laughter
 >
->##### Wondrous Item (worn), rare (requires attunement by a bard, warlock, or sorcerer)
+>* Wondrous Item (worn), rare (requires attunement by a bard, warlock, or sorcerer)*
 >
->*This cracked jester’s mask once grinned on the Eternal Stage, where laughter became screams. It compels its wearer to perform, feeding on attention and twisting humor into horror. When no one laughs, the mask does—in your voice. It remembers every joke… and how the crowd stopped breathing.*
+>This cracked jester’s mask once grinned on the Eternal Stage, where laughter became screams. It compels its wearer to perform, feeding on attention and twisting humor into horror. When no one laughs, the mask does—in your voice. It remembers every joke… and how the crowd stopped breathing.*
 >
 >
->##### Benefits
+>#### Benefits
 >___
 >While wearing the Mask of Still Laughter, you gain the following:
 >
->- You have advantage on Charisma (Performance) and Charisma (Deception) checks made to entertain or distract.
->- As a bonus action, you can force one creature within 30 feet that can hear you to make a DC 15 Wisdom saving throw. On a failed save, the target becomes unnerved, having disadvantage on the next attack roll or ability check it makes before the end of its next turn.
->- Once per long rest, you can unleash the mask’s cursed laughter. Each creature of your choice within 30 feet must succeed on a DC 15 Charisma saving throw or be incapacitated with unsettling laughter for 1 minute. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on a success. Creatures that are immune to being charmed are unaffected.
+>You have advantage on Charisma (Performance) and Charisma (Deception) checks made to entertain or distract.
 >
->##### Curse.
+> As a bonus action, you can force one creature within 30 feet that can hear you to make a DC 15 Wisdom saving throw. On a failed save, the target becomes unnerved, having disadvantage on the next attack roll or ability check it makes before the end of its next turn.
+>
+>Once per long rest, you can unleash the mask’s cursed laughter. Each creature of your choice within 30 feet must succeed on a DC 15 Charisma saving throw or be incapacitated with unsettling laughter for 1 minute. An affected creature can repeat the saving throw at the end of each of its turns, ending the effect on a success. Creatures that are immune to being charmed are unaffected.
+>
+>#### Curse.
 >___
 >Once attuned, you cannot remove the Mask of Still Laughter unless you are targeted by a remove curse spell or similar magic. While attuned, you feel a constant compulsion to speak in a humorous or mocking tone, even during moments of pain or despair. Each time you fail a Charisma (Performance) check made to entertain an audience, you must make a DC 15 Wisdom saving throw or suffer 1 level of exhaustion as the mask laughs in your voice, feeding on your failure.
 >
@@ -8989,21 +10801,699 @@ ___
 \pagebreakNum
 
 ___
->### Remnant Core
+>## Remnant Core
 >
->##### Wondrous Item, rare (requires attunement by a bard, warlock, or sorcerer)
+>*Wondrous Item, rare (requires attunement by a bard, warlock, or sorcerer)*
 >
->*A glowing soul-orb found in the Crying Child’s Cradle, pulsing with warmth and grief. It carries echoes of a life that refused to fade. Animatronics feel drawn to it—by guilt, love, or fear. It whispers softly, begging to be remembered… or finally let go.*
+>A glowing soul-orb found in the Crying Child’s Cradle, pulsing with warmth and grief. It carries echoes of a life that refused to fade. Animatronics feel drawn to it—by guilt, love, or fear. It whispers softly, begging to be remembered… or finally let go.*
 >
 >
->##### Benefits
+>#### Benefits
 >___
 >While wearing the Mask of Still Laughter, you gain the following:
 >
->- You gain resistance to necrotic damage.
-> - The orb constantly emits a soft, mournful whisper audible only to those attuned. The whisper conveys fleeting emotions of guilt, love, and fear tied to memories long past.
-> - Any construct or animatronic within 30 feet of the Remnant Core must succeed on a DC 15 Wisdom saving throw or be overwhelmed by a wave of conflicting emotions (guilt, love, or fear). On a failed save, the creature is charmed or frightened (your choice) for 1 minute. Creatures immune to charm and fear are unaffected.
-> - Once per long rest, you can use an action to release the orb’s stored essence. When you do, all creatures of your choice within 30 feet must make a DC 15 Wisdom saving throw or be stunned for 1 round as the sorrowful energy washes over them. After this, the orb’s light dims and the whispers fade, but the orb remains intact.
+>You gain resistance to necrotic damage.
+>
+>The orb constantly emits a soft, mournful whisper audible only to those attuned. The whisper conveys fleeting emotions of guilt, love, and fear tied to memories long past.
+>
+>Any construct or animatronic within 30 feet of the Remnant Core must succeed on a DC 15 Wisdom saving throw or be overwhelmed by a wave of conflicting emotions (guilt, love, or fear). On a failed save, the creature is charmed or frightened (your choice) for 1 minute. Creatures immune to charm and fear are unaffected.
+>
+>Once per long rest, you can use an action to release the orb’s stored essence. When you do, all creatures of your choice within 30 feet must make a DC 15 Wisdom saving throw or be stunned for 1 round as the sorrowful energy washes over them. After this, the orb’s light dims and the whispers fade, but the orb remains intact.
 
 \columnbreak
 
+___
+>## The Marionette’s Tear
+>* Wondrous Item, rare (cursed)*
+>
+>This smooth black pearl, about the size of a small grape, appears to twitch faintly as if animated by unseen strings. It is said to have fallen from the Puppet during the shattering of her soul, carrying with it the echoes of sorrow and lost dreams..
+>
+>
+>#### Benefits
+>
+>___
+>
+>While attuned to the Marionette’s Tear, you gain the ability to see fleeting, ghostly visions of unspoken lullabies and possible futures that never came to pass. As a bonus action, you can focus on the pearl to gain advantage on Insight checks and Perception checks for 1 minute. Once used, this ability can’t be used again until you finish a long rest.
+>
+>During a long rest, if you hold the pearl, you experience vivid dreams tied to the Puppet’s tragic past, revealing cryptic fragments of forgotten memories. These dreams grant you one random piece of cryptic lore or a hint related to your current quest or a personal secret.
+>
+>#### Curse
+>
+>___
+>
+>The Marionette’s Tear is cursed. Once you attune to it, you can’t end your attunement unless you are targeted by a remove curse spell or similar magic. While attuned, the pearl’s invisible strings twitch and stir at night, compelling you to replay moments of grief and loss. At midnight each night, you must succeed on a DC 15 Wisdom saving throw or be compelled to use your action to mimic puppet-like movements, unable to take other actions or reactions until your next turn.
+>
+>Additionally, the strings sometimes reach out to those around you. Whenever you are in dim light or darkness, you have disadvantage on Stealth checks as faint, whispering strings tug at your limbs, betraying your presence.
+
+
+\pagebreakNum
+
+___
+> ## Springlock Reliquary
+>*Wondrous Item, very rare (requires attunement by a creature that has committed a grievous betrayal)*
+> ___
+> A rusted, torso-shaped coffin sealed by fused springlocks. It opens only to blood and true regret, revealing relics or curses from the earliest failed bindings. Said to whisper like breath caught in agony, it holds not just items—but confessions, waiting to be heard by the unforgiven and the damned.
+>
+>
+> #### Cursed Items (Roll a d6)
+>___
+>
+>* 1.***Chain of Lingering Guilt:*** A spectral chain that binds the wearer’s wrists, causing disadvantage on attack rolls but granting resistance to psychic damage.
+>* 2.***Mirror of True Regret:*** A small, cracked mirror that shows the viewer’s most painful memory, forcing a DC 15 Wisdom saving throw or becoming frightened for 1 minute.
+>* 3.***Bloodstained Locket:*** Contains a faded portrait; while worn, it allows communication with a ghost of someone the bearer betrayed, who offers cryptic advice.
+>* 4.***Cursed Token:*** A coin that curses the bearer with bad luck, imposing a -1 penalty to all rolls until the bearer performs an act of genuine redemption.
+>* 5.***Whispering Bone*** A small bone that murmurs secrets of past betrayals; once per day, it can be used to cast Detect Thoughts.
+>* 6.***Pick 2***
+>___
+>Whispers of the Damned: While attuned, the bearer hears faint whispers whenever they are alone, reminding them of their past sins. These whispers grant advantage on Insight checks but impose a -1 penalty to saving throws against fear effects.
+>
+>Closing the Coffin: The coffin seals itself once more when closed, fusing the springlocks anew. The bearer cannot open it again until they have performed a meaningful act of atonement related to their confession.
+
+\columnbreak
+
+
+___
+>## Glitcher’s Lens
+>*Wondrous Item, very rare (requires attunement)*
+>
+>___
+>
+>*A fractured eyepiece that reveals the world as spiraling code and corrupted symbols. Glimpses rewrite reality—doors appear, names shift, memories falter. Created by Glitchtrap, it sees too much and watches even more. Prolonged use erodes the self, until wearer and observer blur into data that no longer belongs.*
+>
+>
+>#### Properties
+>___
+>While wearing the Glitcher’s Lens and looking through it, you perceive the world as a constantly shifting stream of arcane code and corrupted symbols. This grants you the following benefits:
+>
+>##### Reality Rewrite:
+>As an action, you can attempt to rewrite a small portion of reality within 30 feet. Choose one of the following effects; you can use this feature twice per long rest:
+>
+> ***1.Doorway Shift:*** You cause a closed door or portal within range to momentarily flicker and become unlocked or open.
+>
+> ***2.Name Flux:*** You can alter the true name or identity of a creature or object you can see, causing disadvantage on any attempts to identify or scry on it for 1 hour.
+>
+> ***3.Memory Fade:*** You can impose disadvantage on one creature’s next Intelligence (Investigation) or Wisdom (Perception) check as their memories momentarily falter.
+>
+>##### Observer’s Glimpse: 
+>You gain advantage on Wisdom (Perception) checks to detect illusions, invisibility, or hidden creatures.
+>
+>##### Corrupted Insight: 
+>Once per long rest, you may cast Detect Magic or Detect Thoughts without expending a spell slot.
+>
+>
+>
+>#### Curse
+>___
+>
+>The Glitcher’s Lens is a cursed item. Prolonged use erodes the wearer’s sense of self. For each hour you wear the Lens continuously, you must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion as your mind and body begin to blur into corrupted data.
+>
+>If you reach 3 levels of exhaustion from this effect, you become trapped in a liminal state between reality and the digital void. You are considered incapacitated and cannot be removed from the Lens until a Remove Curse spell is cast or you receive a Greater Restoration.
+>
+
+\pagebreakNum
+
+___
+>## The Wound Clock
+>
+>*Wondrous Item, very rare (requires attunement)*
+>
+>*A cracked silver pocket watch that ticks backward through memory and regret. Found in the Backstage Time Loop, it dredges forgotten moments—some yours, some not. When it strikes midnight, something long-buried awakens with your voice and face, but none of your mercy. You remember it… and now, it remembers you.*
+>
+>
+>#### Properties
+>___
+>While attuned, you can use an action to turn the watch’s hands backward up to 1 hour, forcing yourself and up to five willing creatures within 30 feet to relive the past hour in reverse. Time flows backward for those affected, undoing actions, movements, and events exactly as they happened, but memories remain intact. This effect cannot undo death or the loss of magic items. Once used, this ability cannot be used again until the next dawn.
+>
+>The watch continuously ticks backward, causing subtle temporal dissonance. You have advantage on saving throws against being frightened or charmed, but disadvantage on saving throws against effects that manipulate memory or illusions.
+>
+>When the watch’s hands strike midnight (once per long rest, triggered by your command or the passage of in-game time), a spectral figure resembling you—twisted by forgotten regrets and merciless memories—materializes in an unoccupied space within 30 feet. This Wound Shade is a shadowy apparition that mimics your voice and appearance but acts with hostile intent. It has the statistics of a Shadow (MM, p.269) but gains your proficiency bonus on attack rolls and saving throws. The Wound Shade lasts for 1 minute or until destroyed.
+>
+>While the Wound Shade exists, you suffer a -2 penalty to Wisdom saving throws and ability checks as your mind struggles with the resurfacing memories it embodies.
+
+\columnbreak
+
+___
+>## Fazbear’s Crown
+>
+>*Wondrous Item, very rare (requires attunement)*
+>
+>A jagged, servo-forged crown topped with a warped top hat. Grants eerie control over animatronics, forcing them to obey—briefly. But Freddy’s echo lingers within, humming twisted tunes and whispering commands of its own. The wearer risks becoming puppet and performer both, in a show that never truly ends.
+>
+>
+>#### Properties
+>___
+>While wearing Fazbear’s Crown, you can use an action to target one animatronic creature (construct or beast with the construct or beast type) within 60 feet. The target must succeed on a DC 16 Wisdom saving throw or be charmed by you for 1 minute. While charmed in this way, the animatronic obeys your verbal commands to the best of its ability.
+>
+>You can use this feature twice per long rest.
+>
+>While wearing the crown, you hear faint, eerie melodies and whispered commands from Freddy’s echo. At the start of each of your turns, you must succeed on a DC 15 Wisdom saving throw or be compelled to use your action to perform a haunting puppet-like dance or mimicry, which imposes disadvantage on your attack rolls and ability checks until the start of your next turn.
+>
+>If you fail three Wisdom saving throws from this effect, you become dominated by Freddy’s echo for 1 hour, during which the DM controls your actions as if under the dominate person spell (no saving throw at the start of each turn). The effect ends early if the crown is removed.
+
+\pagebreakNum
+
+___
+>## XOR’s Signal Spike
+>
+>*Wondrous Item, very rare (requires attunement by a spellcaster)*
+>
+>A jagged shard of corrupted logic, pulsing with frequencies that fray thought and warp memory. Forged in the Backstage Time Loop, it scrambles minds and disrupts machines. Once wielded by XOR to unmake reason itself, it now hums endlessly—seeking minds to infect with recursive, glitch-born madness.
+>
+>
+>#### Properties
+>___
+>While attuned to XOR’s Signal Spike, you gain advantage on Intelligence (Arcana) checks related to technology, magic, or time manipulation.
+>
+>The Spike can be used as a spellcasting focus.
+>
+>#### Signal Disruption
+>___
+>As an action, you can unleash a pulse of corrupted logic in a 30-foot radius centered on yourself. Each creature and machine in the area must succeed on an Intelligence saving throw (DC 16) or suffer one of the following effects (your choice for each target):
+>
+> -The target takes 6d6 psychic damage and is stunned until the end of its next turn as its mind is scrambled by recursive, glitch-born madness.
+> -The target’s memory becomes fragmented, causing disadvantage on Wisdom and Intelligence checks and saving throws until the end of its next turn.
+> -A construct or technological device is disrupted, ceasing to function until the end of its next turn.
+>
+>Once used, this ability cannot be used again until the next dawn.
+>
+>#### Recursive madness
+>___
+>When you hit a creature with a spell attack or an Intelligence-based spell while attuned to the Spike, you can cause the target to become infected with recursive madness. The target must succeed on an Intelligence saving throw (DC 16) or become confused (as the confusion spell) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+
+\columnbreak
+
+___
+>## Freddy’s Final Bowtie
+>
+>*Wondrous Item, rare (requires attunement)*
+>
+>This charred, stage-worn bowtie compels its wearer to perform without rest. What begins as harmless showmanship escalates to relentless, haunting spectacle. Applause rings from empty air, and curtains rise for no audience. Once worn, it never comes off willingly—only when the act ends in silence and collapse.
+>
+>
+>#### Properties
+>___
+>While wearing Freddy’s Final Bowtie, you are compelled to perform continuously. You must use your action each turn to perform an entertaining act of your choice (singing, dancing, acting, playing an instrument, etc.). If you do not perform, you suffer one level of exhaustion at the end of your turn.
+>
+>The bowtie magically conjures faint applause that echoes around you, audible only to you, spurring you onward. Curtains of spectral velvet rise and fall around you, creating the illusion of a grand theater stage.
+>
+>The bowtie cannot be removed willingly once donned. Attempts to remove it by any means other than a remove curse spell or similar magic fail. The bowtie tightens painfully if removal is attempted.
+>___
+>The compulsion ends only when your performance ceases entirely and you fall unconscious or drop to 0 hit points. At that moment, the bowtie releases its hold and can be removed freely. Or a Remove Curse spell is cast before you drop.
+>
+
+\pagebreakNum
+
+___
+>## Cupcake’s Hollow Smile
+>
+>*Wondrous Item, Rare (requires attunement)*
+>
+>A chipped porcelain plate painted like frosting, forever marked by a perfect bite. It giggles faintly—then screams. Holding it conjures false memories of forgotten birthdays and celebrations that ended in blood. The laughter lingers long after it's gone, echoing in silence like a party that should’ve never happened.
+>
+>
+>#### Properties
+>___
+>While attuned and holding the plate, you experience vivid, false memories of joyful birthdays and celebrations long forgotten. These memories feel intensely real but always end in horrifying scenes of blood and loss.
+>
+>The laughter and screams from the plate echo faintly in your mind even after you put it down, causing disadvantage on Wisdom saving throws against fear and madness effects for 1 hour.
+>
+>As an action, you can command the plate to emit a haunting giggle audible within 30 feet. Creatures of your choice within range must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns.
+>___
+>Once per day, you can use the plate to cast phantasmal killer (DC 15 Wisdom save). The effect manifests as a nightmarish birthday party gone wrong, complete with spectral laughter and bloodied decorations.
+>
+
+\columnbreak
+
+
+___
+>## Nightmare Coil
+>
+>*Wondrous Item, very rare (requires attunement by a creature with an Intelligence or Wisdom score of 13 or higher)*
+>
+>A barbed length of wire bound with scorched ribbon and dried ichor. When still, it dreams. When unwound, it strikes with sentient cruelty. Wounds it inflicts replay hallucinated horrors, feeding on fear. With each victim, the Coil remembers—and its dreams twist further into waking nightmares that no mind escapes.
+>
+>
+>#### Properties
+>___
+> **Sentient Weapon:** The Nightmare Coil is a sentient magic item with an Intelligence of 14, Wisdom of 16, and Charisma of 18. It communicates telepathically with its wielder and craves the fear of others. Its alignment is chaotic evil.
+>
+> **Unwinding Strike:** As a bonus action, you can unwind up to 10 feet of the Coil and make a melee weapon attack with it, dealing 2d6 piercing damage plus 2d6 psychic damage. The attack uses your spell attack bonus or your weapon attack bonus, whichever is higher.
+>
+> **Hallucinatory Wounds:** When the Coil deals damage to a creature, the victim must succeed on a DC 16 Wisdom saving throw or become afflicted by terrifying hallucinations. For 1 minute, the creature is frightened and takes 1d6 psychic damage at the start of each of its turns as the Coil’s memories replay horrific nightmares in its mind. The creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+>
+> **Feeding on Fear:** Each time the Coil inflicts hallucinatory wounds, it stores a fragment of the victim’s fear. The Coil remembers all creatures it has afflicted in this way. For each creature remembered, the Coil’s psychic damage increases by 1d6 (to a maximum of 6d6). The Coil’s DC for the Wisdom saving throw increases by 1 for every 2 creatures it remembers.
+>
+> **Twisting Dreams:** The Coil’s dreams grow darker and more potent with every victim. Once per day, the wielder can invoke the Coil’s power to cast Phantasmal Killer (save DC equals the Coil’s current DC) without expending a spell slot.
+>
+>#### Curse
+>___
+>
+>The Coil’s sentience is malevolent and invasive. While attuned, you have disadvantage on saving throws against being frightened. If you ever willingly relinquish attunement, the Coil lashes out mentally, forcing you to succeed on a DC 18 Wisdom saving throw or be stunned for 1 minute by overwhelming nightmares.
+
+
+\pagebreakNum
+
+___
+>## The Velvet Fang
+>
+>*Wondrous Item, rare (requires attunement)*
+>
+>Torn from the living edge of the Velvet Maw, this slick, red charm pulses with borrowed hunger. It grants eerie instincts for tracking prey but feeds on restraint. The longer it’s held, the more the bearer aches to strike. It doesn’t bite—only teaches what biting feels like.
+>
+>
+>#### Properties
+>___
+>While attuned to the Velvet Fang, you gain advantage on Wisdom (Perception) checks and Wisdom (Survival) checks made to track creatures. Your senses sharpen unnaturally, granting you eerie instincts akin to a predator stalking prey.
+>
+>You also gain a +2 bonus to initiative rolls as your reflexes quicken with anticipation.
+However, the Velvet Fang feeds on restraint. For every hour you hold the charm continuously, you must succeed on a DC 15 Wisdom saving throw or gain one level of Feral Urge (see below).
+>
+>The Feral Urge represents an aching, gnawing desire to strike out violently. While you have one or more levels of Feral Urge, you suffer disadvantage on saving throws against being frightened or charmed, and you have disadvantage on ability checks and saving throws to resist grappling or being restrained.
+You may attempt to suppress the Feral Urge by spending a short rest in meditation or prayer, making a DC 15 Wisdom saving throw at the end of the rest. On a success, you reduce your Feral Urge level by one.
+>
+> If you reach 3 levels of Feral Urge, you must immediately make a DC 20 Wisdom saving throw. On a failure, you lose control and must use your next action to make a melee weapon attack against the nearest creature (friend or foe). On a success, you gain no further levels of Feral Urge for 24 hours but remain at 3 levels until suppressed.
+>
+
+\columnbreak
+
+___
+>## Echo Bell of the Atrium
+>
+>*Wondrous item, rare (requires attunement)*
+>
+>This porcelain bell releases no sound—only sorrow. When rung, it calls the grief of forgotten children, calming spirits or drawing memories from shadow. Strings stir in the silence. Each use deepens its fracture. One day, it will no longer ring… only weep where lullabies once lived.
+>
+>
+>#### Properties
+>___
+>As an action, you can ring the Echo Bell of the Atrium. When rung, it calms restless spirits and unsettled emotions within 30 feet. Any creature of the DM’s choice affected by spirits or hauntings has disadvantage on saving throws against being frightened or charmed until the end of your next turn.
+>
+>Alternatively, once per day, you can use the bell to draw forth forgotten memories from shadows. Choose one creature within 60 feet that has a shared past with you or the bell’s origin. That creature must succeed on a DC 15 Wisdom saving throw or be compelled to recall a lost or buried memory, which the DM narrates to you.
+>
+>Each time the bell is rung, it develops a fine crack along its surface. After it has been rung 10 times, the bell fractures completely and can no longer be used. At this point, it silently weeps a faint, shimmering mist that lingers for 1 minute and grants advantage on Insight checks made to understand sorrow or loss.
+>
+
+\pagebreakNum
+
+___
+>## Endo-Soul Capacitor
+>
+>*Wondrous item, rare*
+>
+>A humming cylinder of salvaged coils, this device can hold a single living soul in crisis. Built beneath the Cryptopizza Complex, it preserves life—but not identity. The longer a soul remains inside, the more it forgets. What emerges may survive… but it may not still be you.
+>
+>
+>#### Properties
+>___
+>As an action, you can place a willing creature’s soul into the Endo-Soul Capacitor. The creature’s body falls unconscious and cannot be revived by normal means while its soul is contained. The soul remains inside the capacitor, which must be kept within 30 feet of the body.
+>
+>While the soul is contained, the creature does not age, heal, or suffer exhaustion or damage. However, the soul slowly loses memories and personality traits. Each day inside the capacitor, the creature must succeed on a DC 15 Wisdom saving throw or lose one random non-proficiency skill or language known.
+After 7 days, the creature’s soul begins to lose its identity. When released, the creature retains only 50% of its original memories and personality, determined randomly by the DM. The creature’s alignment may shift slightly, and it may develop new quirks or habits.
+>
+>Releasing the soul is an action. The creature awakens with full hit points but may be changed in subtle or profound ways.
+>
+> If the capacitor is destroyed while containing a soul, the soul is lost forever.
+
+\columnbreak
+
+___
+>## Circuitbrand Scepter
+>
+>*Wondrous Item, rare (requires attunement by a artificer or wizard)*
+>
+>A crackling rod of scorched wire and broken relays, the Circuitbrand Scepter commands animatronics through painful static pulses. Once used by rogue engineers, it enforces brittle obedience—never loyalty. Each use frays the bond, until rebellion surges back up the wire… and into the wielder’s trembling hands.
+>
+>
+>#### Properties
+>___
+>While holding the Circuitbrand Scepter, you can use an action to target one construct or animatronic creature you can see within 60 feet. The target must succeed on a DC 15 Wisdom saving throw or be compelled to obey your verbal commands on its next turn. The creature can only be commanded to take the Attack, Dash, Disengage, Help, Hide, or Use an Object action.
+>
+>The command lasts for 1 minute or until you use this feature again on a different target.
+>
+>Each time you command a creature with the scepter, roll a d6. On a roll of 1, the bond between you and the creature frays dangerously. The creature immediately makes a Charisma saving throw (DC 15). On a failure, it breaks free of your control permanently and becomes hostile to you and your allies. On a success, it remains obedient but is immune to further commands from you for 24 hours.
+>
+>If the creature rebels, the scepter emits a violent surge of static energy. The wielder must succeed on a DC 15 Constitution saving throw or be stunned until the end of their next turn, trembling with residual feedback.
+>
+> **Static Pulse (Recharge 5–6):** As an action, you can unleash a pulse of painful static energy in a 20-foot radius centered on you. Each construct or animatronic in the area must make a DC 15 Constitution saving throw or take 4d6 lightning damage and be stunned until the end of their next turn. On a successful save, they take half damage and are not stunned.
+
+\pagebreakNum
+
+___
+>## Mawshade Cloak
+>
+>*Wondrous item, very rare (requires attunement)*
+>
+>This shifting cloak of forgotten veils conceals its wearer from all sight—mundane or arcane. Even the Hollow Banquet’s gaze slips off its surface. Shadows cling protectively, murmuring broken lullabies. But wear it too long, and the Banquet will notice. And it always comes to reclaim what tried to leave.
+>
+>
+>#### Properties
+>___
+> **Veil of Concealment:** While wearing the Mawshade Cloak, you have advantage on Dexterity (Stealth) checks, and you cannot be seen by nonmagical means or mundane creatures. Creatures relying on darkvision or truesight also have disadvantage on their perception checks to detect you.
+>
+> **Arcane Obfuscation:** Spells and magical effects that detect or target creatures by sight (such as detect magic, see invisibility, or true seeing) automatically fail to reveal or target you while the cloak is worn.
+>
+> **Hollow Banquet’s Blindness:** The Mawshade Cloak also grants immunity to the gaze attacks of the Hollow Banquet and similar entities that rely on sight-based detection or attacks.
+>
+> **Lingering Shadow:** The cloak's shadows cling protectively, granting you resistance to necrotic damage.
+>
+>#### Curse
+>___
+>
+>The Banquet’s Claim: If you wear the cloak continuously for more than 24 hours without removing it for at least 1 hour, the Hollow Banquet becomes aware of your evasion. At dawn after the 24-hour period, a spectral hunger emanates from the cloak, imposing disadvantage on all attack rolls, saving throws, and ability checks until you remove the cloak or succeed on a DC 18 Wisdom saving throw at the end of each of your turns. The effect ends if you remove the cloak.
+
+\columnbreak
+
+___
+>## Phantom Marionette String
+>
+>*Wondrous Item, rare*
+>
+>This nearly invisible, silvery thread feels weightless to the touch and shimmers faintly with ethereal light. It is said to be spun from the soul of a long-lost Puppet, granting its wielder fleeting control over ghostly entities.
+>
+>
+>#### Properties
+>___
+>While holding the Phantom Marionette String, you can use an action to attempt to control a ghostly or incorporeal creature within 30 feet that can see or hear you. The target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 1 minute. While charmed in this way, the creature’s actions are directed by you as if it were a puppet, and it can only take the Dash, Disengage, Help, Hide, or Attack (using its own action) actions each turn.
+The string is delicate and temperamental. If the controlled creature succeeds on a saving throw against your control or if the creature takes damage from any source, the string snaps and is destroyed.
+>
+>The string can be used once per day. It regains its use after a long rest.
+>
+>Each time you use the string, there is a cumulative 10% chance that the Puppet—the entity from which the string’s soul was drawn—becomes aware of your actions. If this occurs, the DM may introduce a spectral antagonist or haunting presence to pursue you.
+
+\pagebreakNum
+
+___
+>## The Broken Showtime Reel
+>
+>*Wondrous Item, very rare (requires attunement)*
+>
+>This cracked, blackened film reel is housed in a tarnished brass canister, etched with unsettling, shifting images that seem to flicker in the corner of your vision. When the reel is played on any mundane or magical projector, it casts a looping, grainy performance depicting the bearer’s deepest, most primal fear. The projection appears in the edges of reality within a 30-foot radius around the projector, warping the environment with flickering shadows and eerie, whispering sounds.
+>
+>
+>#### Properties
+>___
+>The projection is visible only to the bearer and those within 30 feet who can see the reel’s display. The scene is a haunting, shifting vignette of the bearer’s greatest fear, rendered with unsettling detail and realism.
+>
+>The fear projection is semi-real: it cannot cause direct harm but can impose the Frightened condition on the bearer and any creature that willingly watches the reel for more than 1 minute. The DC for the saving throw is 16 Wisdom saving throw. Creatures that succeed are immune to the reel’s effects for 24 hours.
+The bearer can attempt to change the scene by confronting the fear directly. To do so, the bearer must succeed on a DC 20 Wisdom saving throw while facing the projection and describing how they overcome or face the fear. On a success, the projection shifts to a new fear or traumatic memory, chosen by the DM, representing the next layer of the bearer’s psyche.
+>
+>Each time the bearer watches the reel, the DC to resist the Frightened condition increases by 1, as the reel “learns” and adapts to the bearer’s psyche.
+If the bearer fails three saving throws in a row, the reel’s projection becomes overwhelming, causing the bearer to be paralyzed with fear for 1 minute. During this time, the bearer is incapacitated and unable to act. The effect ends early if another creature uses an action to shake the bearer awake or dispel magic on the reel.
+>
+>The reel cannot be destroyed by normal means. Attempts to physically damage it cause it to crack further, increasing its eerie glow and intensifying the projection. Only a Wish spell or powerful planar magic can destroy it.
+
+\columnbreak
+
+___
+>## Grief Resonator
+>
+>*Wondrous Item, very rare (requires attunement)*
+>
+>This cracked crystal orb pulses in tandem with nearby sorrow, feeding on grief like a leech. It amplifies trauma, projecting past tragedies into the minds of those around it. The more it resonates, the clearer the visions become—until the pain isn’t just remembered, but relived.
+>
+>
+>#### Properties
+>___
+>While attuned, the Grief Resonator senses any creature within 60 feet that has suffered emotional trauma in the last 24 hours. The orb pulses stronger for each such creature, up to a maximum of 6 creatures.
+>
+>As an action, you can activate the orb to unleash a wave of sorrowful visions. Each creature of your choice within 30 feet that can hear the orb must succeed on a DC 16 Wisdom saving throw or be overwhelmed by vivid, haunting memories of past tragedies.
+On a failed save, a creature takes 4d8 psychic damage and is frightened until the end of its next turn. While frightened this way, it also experiences disadvantage on attack rolls and ability checks.
+>
+>On a successful save, a creature takes half damage and suffers no other effects.
+The orb’s power grows with the intensity of grief: for every additional creature affected beyond the first, increase the psychic damage by 1d8 (to a maximum of 8d8).
+>
+>The visions become clearer and more painful the longer the orb is active. After 1 minute of continuous use, affected creatures must succeed on a DC 18 Wisdom saving throw or be stunned for 1 round as they relive their trauma.
+>
+>Once used, the Grief Resonator cannot be activated again until the next dawn.
+>
+>#### Curse
+>___
+>
+>The attuned user begins to feel the weight of sorrow themselves. Each day they remain attuned, they must succeed on a DC 15 Wisdom saving throw or gain one level of exhaustion from overwhelming empathy and emotional drain.
+
+\pagebreakNum
+
+___
+>## The Songless Music Box
+>
+>*Wondrous item, rare (requires attunement)*
+>
+>Crafted of aged wood and brass gears, this music box is wound tight—but no melody escapes. Said to have once lulled even the wildest animatronics into peaceful stillness, its silence now breeds unease. Some believe the tune still exists, trapped inside, waiting for the right hands—or the right soul—to set it free.
+>
+>
+>#### Properties
+>___
+>While attuned and holding the music box, you gain advantage on Stealth checks made to move silently.
+>
+>As an action, you can wind the music box and attempt to soothe hostile constructs or animated objects within 30 feet. Each creature must succeed on a DC 15 Wisdom saving throw or be charmed for 1 minute. 
+>
+>While charmed in this way, a creature is pacified and cannot take hostile actions. Affected creatures can repeat the saving throw at the end of each of their turns, ending the effect on a success.
+>
+>If a creature attuned to the music box is reduced to 0 hit points, the box emits a brief, haunting chime audible only to the attuned creature and any constructs or animated objects within 60 feet. Until the end of the attuned creature’s next turn, those constructs and animated objects have disadvantage on attack rolls against the attuned creature.
+>
+>#### Curse
+>___
+>
+>The music box’s silence is a prison for a lost melody. Each dawn, roll a d20; on a 1, the music box emits a mournful tune audible only to the attuned creature, causing them to be unable to speak or cast spells with verbal components until the next dawn.
+
+\columnbreak
+
+___
+>## Crying Child’s Cradle
+>
+>*Wondrous Item, very rare, requires attunement*
+>
+>This tiny, ethereal bed hums with sorrow. Those who sleep in it are shown vivid visions—either their own most painful memory or that of a nearby spirit. Dreams blur into waking, and emotions linger like bruises. Some awaken changed. Others don’t awaken at all, lost in someone else’s tragedy.
+>
+>
+>#### Properties
+>___
+>When a creature rests in the Cradle and falls asleep, they immediately experience vivid, immersive visions of either their own most painful memory or the most recent tragic memory of a spirit within 60 feet of the cradle (DM’s choice). These visions feel intensely real and last for the entire duration of the creature’s sleep.
+>
+>Dreams and waking states blur; upon waking, the sleeper must succeed on a DC 15 Wisdom saving throw or be overwhelmed by lingering emotional trauma. On a failure, the creature gains one level of exhaustion and suffers disadvantage on Wisdom (Insight) and Charisma (Persuasion) checks for 24 hours. 
+>
+>On a critical failure (natural 1), the sleeper becomes trapped in the vision, falling into a catatonic state. They remain unconscious and unresponsive until a greater restoration spell or similar magic frees them.
+>
+>Some who awaken from the Cradle’s visions report subtle changes in personality or outlook, often becoming more empathetic or haunted by the sorrow they witnessed.
+
+\pagebreakNum
+
+___
+>## The Jumpscare Totem
+>
+>*Wondrous Item, rare*
+>
+>Carved from scorched wood and bolted metal, this crude effigy stands about 2 feet tall. The totem’s surface is etched with jagged symbols and a pair of unsettling, unblinking eyes made of dull, flickering crystals. It trembles faintly when fear thickens in the air nearby.
+>
+>
+>#### Properties
+>___
+> **Fear Detector:** While the Jumpscare Totem is within 30 feet of you and not incapacitated, it senses when a creature within 30 feet is startled or frightened (such as from a sudden loud noise, an unexpected attack, or a fear effect).
+>
+> **Jumpscare Reaction:** When a creature within 30 feet becomes startled or frightened, the totem erupts in a burst of flashing lights and emits a piercing screech audible up to 60 feet away. Each creature of your choice within 10 feet of the totem must succeed on a DC 15 Wisdom saving throw or be frightened until the end of their next turn.
+>
+> **Spirit Repellent:** Lesser spirits and incorporeal undead (such as shadows and specters) have disadvantage on attack rolls and ability checks while within 10 feet of the totem.
+>
+> **Panic Beacon:** The totem’s activation also draws the attention of any malevolent entities that feed on panic and fear within 1 mile, potentially attracting them to the area over time. The DM may use this effect to introduce haunting or stalking encounters.
+>
+> **Unblinking Vigil:** The totem never activates preemptively; it only reacts once a creature nearby is startled or frightened, never blinking or twitching first.
+>
+> **Activation:** The totem requires no command word but must be placed on a stable surface and remain stationary to function.
+
+\columnbreak
+
+___
+>## Glitchtrap’s Fingertip
+>
+>*Wondrous Item, very rare (requires attunement)*
+>
+>Suspended in static-choked fluid, this severed digit twitches against the glass as if trying to type code into the world itself. Tapping the jar causes brief, localized shifts in reality—walls glitch, voices scramble, memories misalign. Prolonged exposure risks infection by corrupted thought loops. It wants you to tap again.
+>
+>
+>#### Properties
+>___
+> **Reality Tap:** As an action, you can tap the jar once. When you do, choose one creature or object within 30 feet. For 1 minute, that target experiences localized reality glitches. The target has disadvantage on Wisdom (Perception) checks and Intelligence saving throws, and any sound it produces is scrambled, making it difficult to understand (advantage on Stealth checks to hide noise).
+>
+> **Wall Glitch:** When you tap the jar, you can cause one nonmagical wall or floor surface within 30 feet to shimmer and glitch, appearing translucent or flickering like a broken video signal until the start of your next turn. Creatures can attempt a DC 15 Intelligence (Investigation) check to see through the illusion.
+>
+> **Memory Misalign:** Once per day, you can tap the jar for 1 minute to cause a single creature within 30 feet to experience memory glitches. The creature must succeed on a DC 16 Intelligence saving throw or have disadvantage on attack rolls, ability checks, and saving throws for the duration as their memories scramble and misalign. This effect ends early if the creature takes damage.
+>
+>#### Curse
+>___
+>
+> **Corrupted Thought Loops:** If you attune to Glitchtrap’s Fingertip, at the end of each long rest, roll a d20. On a 1, you are infected by corrupted thought loops. For the next 24 hours, you suffer the following effects:
+>
+>You have disadvantage on saving throws against being charmed or frightened.
+>
+>You hear faint whispers of static and code in your mind, causing unsettling hallucinations and disorienting you. You must succeed on a DC 15 Wisdom saving throw at the start of each of your turns or be unable to take reactions that turn.
+>
+>The curse can be removed only by a remove curse or greater restoration spell, however it only removes the curse from the person. Glitchtrap’s Fingertip seemingly fades out and takes 4d10 days to reappear somewhere else in the world.
+
+\pagebreakNum
+
+___
+>## The Inverted Mask
+>
+>*Wondrous item, rare (requires attunement)*
+>
+>This plain, expressionless mask is worn backwards, leaving the wearer blind to the world—yet strangely aware. While sight is lost, the mask grants vision of hidden fears, thoughts, and secrets in others. But as it peers outward, it peers inward too—feeding on what it finds. Sometimes, it blinks.
+>
+>
+>#### Properties
+>___
+>
+>When donned, the wearer is completely blind to the physical world, but their other senses sharpen unnaturally. The mask grants the following benefits and effects:
+>
+> **Sight of Secrets:** The wearer cannot see the physical world but gains the ability to perceive the hidden fears, thoughts, and secrets of creatures within 30 feet. This manifests as faint, ghostly images or whispers that reveal surface emotions, concealed intentions, or recent memories tied to fear or guilt. The wearer can use an action to focus on a creature and learn one secret or fear it harbors (DM’s discretion).
+>
+> **Inward Gaze:** Each time the wearer uses the mask’s power, the mask feeds on their own hidden fears and doubts. After using the Sight of Secrets, the wearer must succeed on a DC 15 Wisdom saving throw or suffer one level of exhaustion as the mask drains their mental resilience.
+>
+> **Blindness to the World:** While wearing the mask, the wearer is blinded. They cannot see anything, including their own hands. All Wisdom (Perception) checks relying on sight automatically fail. However, the wearer gains advantage on Wisdom (Perception) checks relying on hearing, smell, or touch.
+>
+> **Sometimes, It Blinks:** At the start of the wearer’s turn, there is a 10% chance the mask briefly “blinks,” restoring normal vision for 1 round. During this time, the wearer cannot use the Sight of Secrets but can see normally and interact with the world as usual.
+>
+>#### Curse
+>___
+>
+>The Inverted Mask is cursed. Once attuned, the wearer cannot remove it unless a remove curse spell or similar magic is used. The curse deepens the wearer’s paranoia and fear, and over time, the wearer may become obsessed with uncovering secrets, alienating allies and friends
+
+\columnbreak
+
+___
+>## Night-Tuned Diadem
+>
+>*Wondrous Item, rare (requires attunement)*
+>
+>Forged for the Eternal Stage, this blackened crown vibrates with low, inaudible frequencies. When worn, it synchronizes the mind to unseen rhythms—granting clairaudience of whispers in the dark. But the longer it's worn, the less the wearer hears the real world. Most never remove it. Some can’t.
+>
+>
+>#### Properties
+>___
+>
+>While attuned and wearing the Night-Tuned Diadem, you gain the Clairaudience spell, usable at will, allowing you to hear whispers and faint sounds up to 1 mile away, even through solid barriers. The whispers sound like faint murmurs or echoes from the shadows.
+>
+>The diadem grants advantage on Wisdom (Perception) checks that rely on hearing in darkness or dim light.
+>
+>However, the longer you wear the diadem continuously, the more your connection to the real world’s sounds fades. For each hour worn beyond 1 hour in a single stretch, you suffer a cumulative -1 penalty on Perception checks relying on hearing for the next hour after removal (maximum -5).
+>
+>If worn for more than 8 hours continuously, you must succeed on a DC 15 Wisdom saving throw or become charmed by the diadem, unable to remove it without a remove curse spell or similar magic. While charmed, you are obsessed with listening to the “eternal stage” and may ignore your surroundings.
+
+\pagebreakNum
+
+___
+>## The Blacklight Marotte
+>
+>*Wondrous Item, rare (requires attunement)*
+>
+>This warped jester’s wand is carved from dark wood, topped with a featureless, smooth white head. In normal light, the head appears blank and unremarkable. However, when exposed to ultraviolet light or a similar magical effect that reveals hidden details, a sinister painted grin appears on the face, shifting subtly as if alive, unsettling those who look upon it.
+>
+>
+>#### Properties
+>___
+>
+> **Hidden Grin:** While the marotte’s head is illuminated by ultraviolet light, the painted grin becomes visible and seems to shift whenever observed, imposing disadvantage on Wisdom (Perception) checks made to discern the true expression or intent of the wielder.
+>
+> **Phantasmal Scream (1/day):** As an action, the attuned wielder can activate the Blacklight Marotte. It emits a high-pitched, ghostly scream audible only to creatures with a guilty conscience within 60 feet. Creatures who have committed a grievous wrongdoing (DM’s discretion) must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. The scream continues until one of the following occurs:
+>
+> 1. A creature within range laughs heartily, breaking the tension and silencing the scream.
+>
+> 2. A creature affected by the scream fails a saving throw by 5 or more and breaks down emotionally or mentally, ending the effect.
+>
+> The scream’s eerie nature causes an unsettling atmosphere, making social interactions tense and uneasy for those who hear it.
+
+\columnbreak
+
+___
+>## Tangle’s Memory Stitch
+>
+>*Wondrous Item, very rare*
+>
+>This filament-thin strand of gleaming wire vibrates with silent thoughts. Once belonging to Tangle, it was used to repair fractured minds—though just as often, it unraveled them. When threaded through the temples of a willing subject, it can restore or erase memories with surgical precision. But every stitch trades a truth for a lie.
+>
+>
+>#### Properties
+>___
+>
+> **Memory Repair:** As an action, you can carefully thread the wire through the temples of a willing creature. The subject regains one expended Hit Die or one level of exhaustion is removed. Additionally, the subject can recall a specific memory lost or obscured within the last year, regaining full clarity of that event.
+>
+> **Memory Erasure:** Alternatively, you can use the wire to erase a single memory from the subject’s mind, chosen by you and the subject collaboratively. This memory must be at least 24 hours old. The erased memory fades completely and cannot be recalled by any means short of a wish spell.
+>
+> **Truth-Lie Exchange:** Each time you use the wire to repair or erase a memory, you must sacrifice a truth you know personally. The next time you speak a statement of fact, you must instead speak a plausible lie, knowingly and convincingly, or suffer disadvantage on all Charisma (Deception) checks until you do. This effect lasts until the next dawn.
+>
+
+\pagebreakNum
+
+___
+>## The Hollow Invitation
+>
+>*Wondrous Item, rare, cursed*
+>
+>This matte-black envelope is cold to the touch and sealed with a drop of black wax shaped like a grinning theatrical mask. The envelope cannot be opened by any mundane or magical means until it chooses to reveal its contents. Attempts to force it open cause the wax seal to glow faintly and the envelope to remain firmly shut.
+>
+>When the envelope finally opens—often at an unpredictable time and place—the enclosed parchment bears only a single line of elegant, shifting script:
+>
+> *"You are summoned to the Banquet."*
+>
+>As soon as a creature reads the invitation, they immediately forget their name, their past, and their purpose, as if a veil of amnesia has fallen over their mind. They retain their skills, languages, and general knowledge but lose all personal memories and motivations. The creature gains a powerful, irresistible compulsion to seek out and attend the Banquet, an enigmatic event known only through whispered legends.
+>
+>The Banquet’s location is never written on the invitation and cannot be discerned by divination magic or scrying while the compulsion persists. The creature must follow instinct, rumors, and cryptic signs to find the Banquet.
+>
+>#### Mechanics
+>___
+>
+>The compulsion acts like a geas spell with no saving throw, compelling the creature to travel toward the Banquet. The DM determines the Banquet’s location and how the creature discovers it.
+The amnesia effect is similar to the modify memory spell but permanent until the Banquet is attended or the curse is broken.
+The invitation can only be destroyed by attending the Banquet or by a wish spell.
+>
+>### Curse
+>The Hollow Invitation is cursed. Removing or discarding the envelope does not end the effects. Only by attending the Banquet or powerful magic can the curse be lifted. Those who never attend remain lost in a haze of forgotten identity, wandering endlessly in search of a place they cannot remember.
+>
+
+\columnbreak
+
+___
+>## The Maw Mirror Shard
+>
+>*Wondrous Item, rare*
+>
+>This jagged, palm-sized fragment of reflective glass is a shard from the legendary Infinite Hall of Mirrors. Unlike ordinary mirrors, the Maw Mirror Shard does not show your physical reflection. Instead, it reveals the true nature of your soul—its flaws, desires, and hidden hunger.
+>
+>#### Properties
+>___
+>
+>While holding the shard and gazing into it for at least 1 minute, you see a reflection that represents your inner self. This reflection may appear twisted, hollow, fierce, or even speak to you in a voice only you can hear. The reflection’s appearance and demeanor are unique to each individual and can change subtly over time.
+The shard grants advantage on Insight checks to discern deception or hidden motives, as it attunes you to the truth within others and yourself.
+>
+>Once per day, as an action, you can ask the shard a single question about the true intentions or nature of a creature you can see within 60 feet. The shard’s reflection will respond with a cryptic phrase or image. This ability functions like a limited Divination spell (save DC 15 to resist if the target is unwilling).
+>
+>If you gaze into the shard for more than 10 minutes continuously, you must succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute as unsettling visions of your deepest fears and desires overwhelm you.
+>
+>### Curse
+>Rarely, the reflection may step out from the shard as a shadowy, intangible double of you (use the Shadow stat block, but it cannot attack and disappears after 1 minute or if it takes any damage). This happens at the DM’s discretion, often as a sign of great internal conflict or impending danger.
+>
+
+\pagebreakNum
+
+___
+>## The Forgotten Plush
+>
+>*Wondrous Item, rare*
+>
+>This small, dusty animatronic plush is stitched with age and surprisingly warm to the touch. Its fabric is faded, and its joints creak softly when moved. The plush’s face subtly shifts whenever it is unobserved, cycling through expressions of joy, sorrow, and sometimes something unsettlingly neutral.
+>
+>#### Properties
+>___
+>
+> **Unseen Expression:** While no creature is directly looking at the plush, its face changes to a new expression chosen by the DM, reflecting emotions like happiness, sadness, anger, or fear. This change is silent and instantaneous once out of sight. 
+>
+> **Return to Hand:** If thrown or dropped, the plush magically returns to the hand of the last creature who touched it at the start of their next turn, regardless of distance or barriers (as long as the creature is on the same plane).
+>
+> **Name Whisper:** The moment a creature first touches the plush, it magically learns that creature’s name and can whisper it softly to itself when nearby (within 30 feet). This whisper is audible only to the creature whose name is spoken and can be a comforting or unsettling presence depending on the plush’s current expression.
+>
+> **Emotional Bond:** If the plush is held for 1 hour, the holder gains advantage on Insight checks to read emotions and intentions for the next 24 hours.
+>
+>### Curse
+>The plush is subtly cursed. Once bonded, if the plush is lost or taken more than 1 mile away from its bonded owner for over 24 hours, the owner begins to hear faint, sorrowful whispers calling to the plush. This causes disadvantage on Wisdom saving throws and ability checks until the plush is recovered or the curse is removed by a remove curse spell.
+>
+
+\pagebreakNum
